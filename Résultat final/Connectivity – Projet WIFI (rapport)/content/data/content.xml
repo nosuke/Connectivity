@@ -1,0 +1,3739 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-25726.113664520475" y="-14493.925964115653" width="51452.22732904095" height="28987.85192823131"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>fr</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="78_13696309" type="button" x="0" y="1.1160980793900246e-12" r="0" s="48.39374278502723" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1064.171827645276</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="56_13696309" type="shape" x="-11305.729278684195" y="1287.4976012062702" r="0" s="18.33451335401814" class="line3">
+      <geom type="line">
+        <sp>-40.831480333121185 0</sp>
+        <ep>40.831480333121185 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="60_13696309" type="shape" x="-10464.09511186601" y="1090.8713922241589" r="90.00000000000001" s="15.502698236987051" class="line3">
+      <geom type="line">
+        <sp>-735.0948319713333 0</sp>
+        <ep>735.0948319713334 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="61_13696309" type="shape" x="3111.9447865288685" y="-10305.800170459126" r="1.3843304069287328e-15" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-510.36072329331336 0</sp>
+        <ep>510.3607232933133 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_13696309" type="button" x="-3072.5677796137684" y="-11225.842966961196" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="71_13696309" type="button" x="-2.952439145950982" y="-11225.783258924039" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="57_13696309" type="button" x="-6574.349539178336" y="-10240.380069122528" r="0" s="5.800879163010219" class="circle">
+      <type>circle</type>
+      <size>
+        <w>612</w>
+        <h>612</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="81_13696309" type="text" x="-2.35951968051976" y="-13068.456220087875" r="0" s="67.89091756807736" class="head">
+      <height>27.1875</height>
+      <width>484.21339176882185</width>
+      <p align="center">
+        <text><![CDATA[Connectivity – Projet WIFI]]></text>
+      </p>
+    </object>
+    <object id="216_13696309" type="shape" x="5970.0501767484675" y="-6403.169480939238" r="-3.9407881741161526e-15" s="15.50269823698695" class="line3">
+      <geom type="line">
+        <sp>-702.1282964119602 0</sp>
+        <ep>702.1282964119603 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="217_13696309" type="button" x="-3191.363728090338" y="-7318.906313860638" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="218_13696309" type="button" x="-119.42579408396013" y="-7842.973908193493" r="0" s="2.4076065695190474" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1054.592359498432</w>
+        <h>1035.3928162562825</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="58_13696309" type="button" x="-6692.175565940863" y="-6424.8394921224135" r="0" s="5.800879163010219" class="circle">
+      <type>circle</type>
+      <size>
+        <w>612</w>
+        <h>612</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="220_13696309" type="shape" x="4539.918615721774" y="-2480.380495759875" r="1.926355199009078e-15" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-601.2955738372435 0</sp>
+        <ep>601.2955738372435 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="221_13696309" type="button" x="-3054.329497628941" y="-3400.423292261951" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="222_13696309" type="button" x="15.285842838888799" y="-3400.363584224793" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="59_13696309" type="button" x="-6571.226086029525" y="-2599.929409582083" r="0" s="5.800879163010219" class="circle">
+      <type>circle</type>
+      <size>
+        <w>612</w>
+        <h>612</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="64_13696309" type="text" x="-3013.836103682986" y="-11078.844519692811" r="0" s="2.313063187059121" class="body">
+      <height>326.25</height>
+      <width>967.168270526024</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Free Wi-Fi Finder :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[https://itunes.apple.com/fr/app/free-wi-fi-finder/id307217005?mt=8]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Retina Wifi Scanner :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[http://www.01net.com/telecharger/windows/Utilitaire/reseau/fiches/32457.html]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[D'autres logiciels / applications / sites :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Il a été choisi de ne pas parler davantage de ces autres logiciels/applications/sites, car ils étaient moins intéressants soit parce que moins complets, soit parce que moins bien réalisés au niveau de l'interface homme-machine, moins bien réfléchis, etc.]]></text>
+      </p>
+    </object>
+    <object id="67_13696309" type="text" x="-1.368904869900063" y="-10985.744252106664" r="0" s="2.544369505765033" class="body">
+      <height>299.0625</height>
+      <width>846.1087813972376</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Free Wi-Fi Finder :]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Géolocalisation.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Naviguer sur une carte (Google Map).]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Filtrer via une liste (par proximité, fournisseur, type de lieu ou payant/gratuit).]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Fonctions pour chaque spot :]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Numéro de téléphone du lieu.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[GPS.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Favoris.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Partager sur Twitter/Facebook.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Reporter aux admins.]]></text>
+      </p>
+    </object>
+    <object id="131_13696309" type="text" x="-3225.7524900990925" y="-7172.110117298058" r="0" s="2.544369505765033" class="body">
+      <height>299.0625</height>
+      <width>864.4749196268442</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Formulaire de saisie :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[https://docs.google.com/forms/d/1wZ5O4hRBHD3kDc0vLu5hLzBw6QCePq38keen6twSqas/viewform]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Réponses obtenues :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[https://docs.google.com/spreadsheet/pub?key=0AsfmcbBu6AQ5dFluQ2RWTFlJQ3F0bUtWYjRkS2JPRWc&output=html]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Statistiques :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[https://docs.google.com/forms/d/1wZ5O4hRBHD3kDc0vLu5hLzBw6QCePq38keen6twSqas/viewanalytics]]></text>
+      </p>
+    </object>
+    <object id="20_23506623" type="image" x="-119.15023696624998" y="-7784.780660612707" r="0" s="3.6126900528034938">
+      <source w="595" h="841">1128965633<mask x="50.8" y="108.6" w="505.49999999999994" h="589"/>
+      <url>1128965633.swf</url></source>
+      <sourceUrl>Grille d'entretien.pdf</sourceUrl>
+    <resource><id>1128965633</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/9/d/0ef80bec36bf8fe67ed6b7118098557d3c0e8.swf</url></resource></object>
+    <object id="174_13696309" type="text" x="-3061.014581668566" y="-4029.976625048322" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>493.6848234378163</width>
+      <p align="center">
+        <text><![CDATA[III.1) Scénario avec notre service]]></text>
+      </p>
+    </object>
+    <object id="175_13696309" type="text" x="45.845075270135766" y="-3529.7991212803427" r="0" s="3.3865558121732606" class="body">
+      <height>54.375</height>
+      <width>662.8996868558028</width>
+      <p align="justify">
+        <text><![CDATA[Annulé, car ce diagramme n'était pas pertinent à modéliser dans le cadre de notre projet.]]></text>
+      </p>
+    </object>
+    <object id="178_13696309" type="text" x="-7292.389268574199" y="-10642.678504186306" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>248.27363600272227</width>
+      <p>
+        <text><![CDATA[I.1) Recherche]]></text>
+      </p>
+    </object>
+    <object id="179_13696309" type="text" x="-6574.652916626725" y="-11142.05150326817" r="0" s="5.8154928999078415" class="strong">
+      <height>27.1875</height>
+      <width>463.00921952227986</width>
+      <p align="center">
+        <text><![CDATA[I) État de l'art]]></text>
+      </p>
+    </object>
+    <object id="181_13696309" type="text" x="-7315.782549815718" y="-6735.536507257641" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>282.3543019694392</width>
+      <p>
+        <text><![CDATA[II.1) Questionnaire]]></text>
+      </p>
+    </object>
+    <object id="185_13696309" type="text" x="-6608.209205383453" y="-2841.942506636071" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>517.0394550885176</width>
+      <p>
+        <text><![CDATA[III.1) Scénario avec notre service]]></text>
+      </p>
+    </object>
+    <object id="205_13696309" type="shape" x="-9387.109089421783" y="-10302.526332093525" r="-0.007423271076081915" s="15.502698236987086" class="line3">
+      <geom type="line">
+        <sp>-66.91844850786323 0</sp>
+        <ep>66.91844850786322 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="215_13696309" type="shape" x="-9381.4080861245" y="-2489.0755658082726" r="0" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-66.92671657461871 0</sp>
+        <ep>66.92671657461871 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="1_13696309" type="text" x="-6692.143059790109" y="-7255.700802684125" r="0" s="5.8154928999078415" class="strong">
+      <height>27.1875</height>
+      <width>463.00921952227986</width>
+      <p align="center">
+        <text><![CDATA[II) Analyse des besoins]]></text>
+      </p>
+    </object>
+    <object id="2_13696309" type="text" x="-6571.0013517823145" y="-3437.907692930167" r="0" s="5.8154928999078415" class="strong">
+      <height>27.1875</height>
+      <width>463.00921952227986</width>
+      <p align="center">
+        <text><![CDATA[III) Modélisation]]></text>
+      </p>
+    </object>
+    <object id="3_13696309" type="text" x="66.62817605926368" y="-4010.1875914813336" r="0" s="4.522143933804014" class="strong">
+      <height>54.375</height>
+      <width>292.2276861249832</width>
+      <p align="center">
+        <text><![CDATA[III.2) Modèles :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[diagramme séquentiel]]></text>
+      </p>
+    </object>
+    <object id="5_13696309" type="text" x="-3177.9570155378146" y="-7836.698295022892" r="0" s="4.522143933804013" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[II.1) Questionnaire]]></text>
+      </p>
+    </object>
+    <object id="6_13696309" type="text" x="-92.70217312099749" y="-8953.244418328752" r="0" s="4.311671299199492" class="strong">
+      <height>27.1875</height>
+      <width>541.4573267764787</width>
+      <p align="center">
+        <text><![CDATA[II.2) Entretiens : grille d'entretien]]></text>
+      </p>
+    </object>
+    <object id="8_13696309" type="text" x="-3066.8252199319572" y="-11711.400017922997" r="0" s="4.522143933804012" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[I.1) Recherche]]></text>
+      </p>
+    </object>
+    <object id="9_13696309" type="text" x="2.74910560784154" y="-11712.299024923053" r="0" s="4.522143933804012" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[I.2) Analyse des données]]></text>
+      </p>
+    </object>
+    <object id="14_23506623" type="text" x="-7045.148740793773" y="-10361.100975637706" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>350.0658267638384</width>
+      <p>
+        <text><![CDATA[I.2) Analyse des données]]></text>
+      </p>
+    </object>
+    <object id="15_23506623" type="text" x="-6972.72257390566" y="-10063.366815117171" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>379.8586630841651</width>
+      <p>
+        <text><![CDATA[I.3) Analyse de l'existant]]></text>
+      </p>
+    </object>
+    <object id="16_23506623" type="text" x="-50.51748362919284" y="-11502.963846538569" r="0" s="2.5443695057650326" class="body">
+      <height>54.375</height>
+      <width>879.5078122418655</width>
+      <p align="justify" indent="1">
+        <text><![CDATA[Sélection de Free Wi-Fi Finder, qui fait la même chose que Retina Wifi Scanner en mieux.]]></text>
+      </p>
+    </object>
+    <object id="17_23506623" type="button" x="3050.7054707776465" y="-11226.774268487865" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="22_23506623" type="image" x="4030.6847428427222" y="-11226.774268487865" r="0" s="1.092353776827106">
+      <source w="320" h="568">1128566963<url>1128566963.jpg</url></source>
+      <sourceUrl>a.jpg</sourceUrl>
+    <resource><id>1128566963</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/7/4eb07d4eb754143264b218943073dc294ed56.jpg</url></resource></object>
+    <object id="18_23506623" type="text" x="2780.2760762344997" y="-10991.055590146108" r="0" s="2.7988064563415356" class="body">
+      <height>244.6875</height>
+      <width>641.1107449802553</width>
+      <p align="justify" listType="bullet" indent="2">
+        <text weight="bold"><![CDATA[Free Wi-Fi Finder :]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[Application détectant les points d’accès Wi-Fi gratuits grâce au GPS de votre smartphone.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text weight="bold"><![CDATA[Wi-fi Connect (notre service) :]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[Site web référençant les points d’accès Wi-Fi gratuits grâce à la contribution des utilisateurs.]]></text>
+      </p>
+    </object>
+    <object id="19_23506623" type="text" x="3056.4070155314425" y="-11713.29003448688" r="0" s="4.522143933804012" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[I.3) Analyse de l'existant]]></text>
+      </p>
+    </object>
+    <object id="21_23506623" type="button" x="3050.7054707776465" y="-11226.69946090984" r="0" s="2.7725626888713206" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1206.5015479876165</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="23_23506623" type="shape" x="-9516.789265945692" y="-6414.740469089685" r="-6.099481736428566e-15" s="15.502698236987083" class="line3">
+      <geom type="line">
+        <sp>-56.89257157490822 0</sp>
+        <ep>56.89257157490822 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="24_23506623" type="button" x="6019.697382764739" y="-11239.67963623877" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="27_23506623" type="text" x="6025.398927518532" y="-11792.848954253814" r="0" s="4.522143933804011" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[I.3) Analyse de l'existant]]></text>
+      </p>
+    </object>
+    <object id="28_23506623" type="button" x="6019.697382764739" y="-11239.604828660744" r="0" s="2.7725626888713206" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1206.5015479876165</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="37_23506623" type="image" x="6025.457566272298" y="-11108.54195196929" r="0" s="1.8270701563289955">
+      <source w="641" h="540">1128590103<url>1128590103.swf</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/9/0/33343821bd89a42516b42340902655c91f6b3.swf</sourceUrl>
+    <resource><id>1128590103</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/9/0/33343821bd89a42516b42340902655c91f6b3.swf</url></resource></object>
+    <object id="38_23506623" type="button" x="8948.638484990977" y="-11249.329813803372" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="39_23506623" type="text" x="8948.579846237213" y="-11829.504667483723" r="0" s="4.522143933804011" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[I.3) Analyse de l'existant]]></text>
+      </p>
+    </object>
+    <object id="41_23506623" type="image" x="8948.488869834944" y="-11142.42978481247" r="0" s="1.8394913713640697">
+      <source w="713" h="540">1128590108<url>1128590108.swf</url></source>
+      <sourceUrl>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/b/4/9936e4fe097dd68f124e4ffaf481852d7d127.swf</sourceUrl>
+    <resource><id>1128590108</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/b/4/9936e4fe097dd68f124e4ffaf481852d7d127.swf</url></resource></object>
+    <object id="42_23506623" type="button" x="6019.5477676087" y="-11239.67963623877" r="0" s="2.788411503864729" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1187.925696594427</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="43_23506623" type="button" x="7573.525585823033" y="-11239.604828660744" r="0" s="3.485514379830911" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1187.925696594427</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="44_23506623" type="text" x="-7404.223262654265" y="-6488.949586485752" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>246.10124168769843</width>
+      <p>
+        <text><![CDATA[II.2) Entretiens]]></text>
+      </p>
+    </object>
+    <object id="45_23506623" type="text" x="-6946.326077592409" y="-6254.203406658256" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>434.4788630047639</width>
+      <p>
+        <text><![CDATA[II.3) Définition des personas]]></text>
+      </p>
+    </object>
+    <object id="46_23506623" type="text" x="-6753.172911144165" y="-6024.618949714157" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>513.9264265256351</width>
+      <p>
+        <text><![CDATA[II.4) Scénario avant notre service]]></text>
+      </p>
+    </object>
+    <object id="25_23506623" type="button" x="2882.0136665367977" y="-7839.379513986945" r="0" s="2.4076065695190474" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1054.592359498432</w>
+        <h>1035.3928162562825</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="30_23506623" type="button" x="5836.43167988699" y="-7837.73139988504" r="0" s="2.4076065695190474" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1054.592359498432</w>
+        <h>1035.3928162562825</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="34_23506623" type="image" x="5834.870308632559" y="-7738.457053167145" r="0" s="3.4507658341388976">
+      <source w="595" h="841">1129136858<mask x="54.2" y="107.8" w="498.00000000000006" h="664.45"/>
+      <url>1129136858.swf</url></source>
+      <sourceUrl>Résultats du second entretien.pdf</sourceUrl>
+    <resource><id>1129136858</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/d/0/d/affe02a22e14eda5bf4cd6d3748fbf20efe5a.swf</url></resource></object>
+    <object id="32_23506623" type="text" x="5853.303163719594" y="-8948.386818870524" r="0" s="4.311671299199492" class="strong">
+      <height>27.1875</height>
+      <width>523.7690656476644</width>
+      <p align="center">
+        <text><![CDATA[II.2) Entretiens : second entretien]]></text>
+      </p>
+    </object>
+    <object id="33_23506623" type="image" x="2882.0890243407084" y="-7773.157042466597" r="0" s="3.431763753545655">
+      <source w="595" h="841">1129127618<mask x="53.55" y="107.1" w="500.2" h="643.75"/>
+      <url>1129127618.swf</url></source>
+      <sourceUrl>Résultats du premier entretien.pdf</sourceUrl>
+    <resource><id>1129127618</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/5/b/e/fdf45ecef21a258df086f81c78c9b701d3b76.swf</url></resource></object>
+    <object id="29_23506623" type="text" x="2877.850009858313" y="-8949.427733040142" r="0" s="4.311671299199492" class="strong">
+      <height>27.1875</height>
+      <width>521.4366739544432</width>
+      <p align="center">
+        <text><![CDATA[II.2) Entretiens : premier entretien]]></text>
+      </p>
+    </object>
+    <object id="36_23506623" type="shape" x="213.96701153300924" y="1286.5926741895491" r="2.198138695815825e-15" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-324.71879444733617 0</sp>
+        <ep>324.7187944473362 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="40_23506623" type="button" x="-3092.5947515782354" y="-303.50494315543654" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1130.7085395258089</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="48_23506623" type="button" x="-6609.491339978818" y="1167.043760367342" r="0" s="5.800879163010219" class="circle">
+      <type>circle</type>
+      <size>
+        <w>612</w>
+        <h>612</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="50_23506623" type="text" x="-3090.569340877426" y="-1486.7388113529983" r="0" s="4.522143933804014" class="strong">
+      <height>54.375</height>
+      <width>463.1346671065872</width>
+      <p align="center">
+        <text><![CDATA[IV.1) Maquette Balsamiq :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[accueil (utilisateur déconnecté)]]></text>
+      </p>
+    </object>
+    <object id="52_23506623" type="text" x="-6759.8095539792275" y="937.06907852896" r="0" s="4.860816569672049" class="body">
+      <height>54.375</height>
+      <width>470.4593239994619</width>
+      <p>
+        <text><![CDATA[IV.1) Maquette Balsamiq :]]></text>
+      </p>
+      <p>
+        <text><![CDATA[accueil (utilisateur déconnecté)]]></text>
+      </p>
+    </object>
+    <object id="53_23506623" type="shape" x="-9419.673340073792" y="1277.8976041411506" r="0" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-66.92671657461871 0</sp>
+        <ep>66.92671657461871 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="54_23506623" type="text" x="-6609.266605731607" y="329.06547701925695" r="0" s="5.8154928999078415" class="strong">
+      <height>27.1875</height>
+      <width>463.00921952227986</width>
+      <p align="center">
+        <text><![CDATA[IV) Conception]]></text>
+      </p>
+    </object>
+    <object id="57_23506623" type="shape" x="10421.631519963594" y="5044.447975847634" r="-0.01636617173870933" s="15.502698236987044" class="line3">
+      <geom type="line">
+        <sp>-981.7735556946108 0</sp>
+        <ep>981.7735556946108 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="58_23506623" type="button" x="-3071.051311016973" y="3878.2832471771385" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>798.3812085142285</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="59_23506623" type="button" x="-1.4359705491410935" y="3878.192973049907" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>798.5000000114995</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="60_23506623" type="button" x="-6587.947899417557" y="4929.246597049628" r="0" s="5.800879163010219" class="circle">
+      <type>circle</type>
+      <size>
+        <w>612</w>
+        <h>612</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="62_23506623" type="text" x="-3071.212531318924" y="3011.6478927827625" r="0" s="4.522143933804014" class="strong">
+      <height>54.375</height>
+      <width>472.84916112333974</width>
+      <p align="center">
+        <text><![CDATA[V.1.1) Maquette Axure :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[accueil (utilisateur déconnecté)]]></text>
+      </p>
+    </object>
+    <object id="64_23506623" type="text" x="-7053.32920140713" y="3921.1231031927614" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>286.4678061976922</width>
+      <p>
+        <text><![CDATA[V.1) Maquette Axure]]></text>
+      </p>
+    </object>
+    <object id="65_23506623" type="shape" x="-9398.129899512525" y="5040.100440823435" r="0" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-66.92671657461871 0</sp>
+        <ep>66.92671657461871 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="66_23506623" type="text" x="-6588.175031523629" y="3596.359378709577" r="0" s="5.8154928999078415" class="strong">
+      <height>27.1875</height>
+      <width>463.00921952227986</width>
+      <p align="center">
+        <text><![CDATA[V) Prédéveloppement]]></text>
+      </p>
+    </object>
+    <object id="67_23506623" type="text" x="-2.173396160954584" y="3012.1233231929705" r="0" s="4.522143933804014" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[V.1.2) Maquette Axure :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[accueil (utilisateur connecté)]]></text>
+      </p>
+    </object>
+    <object id="69_23506623" type="shape" x="10419.22070637698" y="8756.011280216793" r="1.6364417424842351e-15" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-981.9290249314514 0</sp>
+        <ep>981.9290249314513 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="70_23506623" type="button" x="-3075.872938190209" y="6993.042284923786" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1267.6291520828456</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="71_23506623" type="button" x="-6.257597722379283" y="6990.74521533963" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="72_23506623" type="button" x="-6592.769526590792" y="8636.462366394582" r="0" s="5.800879163010219" class="circle">
+      <type>circle</type>
+      <size>
+        <w>612</w>
+        <h>612</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="77_23506623" type="shape" x="-9402.951526685763" y="8747.316210168396" r="0" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-66.92671657461871 0</sp>
+        <ep>66.92671657461871 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="78_23506623" type="text" x="-6594.649999999999" y="7282.399999999999" r="0" s="5.8154928999078415" class="strong">
+      <height>27.1875</height>
+      <width>463.00921952227986</width>
+      <p align="center">
+        <text><![CDATA[VI) Évaluation experte]]></text>
+      </p>
+    </object>
+    <object id="80_23506623" type="shape" x="10429.99242665761" y="12455.29038620526" r="9.275099059343833e-17" s="15.502698236987042" class="line3">
+      <geom type="line">
+        <sp>-981.2341961915789 0</sp>
+        <ep>981.2341961915788 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="81_23506623" type="button" x="-3054.3294976289453" y="10724.62990490265" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1242.039597705011</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="82_23506623" type="button" x="15.285842838884149" y="10707.852701809334" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1255.3750625628477</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="83_23506623" type="button" x="-6571.226086029535" y="12335.741472383052" r="0" s="5.800879163010219" class="circle">
+      <type>circle</type>
+      <size>
+        <w>612</w>
+        <h>612</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="85_23506623" type="text" x="-3057.55" y="9311.8" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[VII.1.1) Objectifs du test]]></text>
+      </p>
+    </object>
+    <object id="88_23506623" type="shape" x="-9403.979317936815" y="12466.710108927928" r="-1.0870079681619342" s="15.50269823698704" class="line3">
+      <geom type="line">
+        <sp>-68.39498002042389 0</sp>
+        <ep>68.39498002042387 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="89_23506623" type="text" x="-6571.35" y="11043" r="0" s="5.8154928999078415" class="strong">
+      <height>27.1875</height>
+      <width>463.00921952227986</width>
+      <p align="center">
+        <text><![CDATA[VII) Tests utilisateur]]></text>
+      </p>
+    </object>
+    <object id="95_23506623" type="button" x="8809.830960186722" y="-7344.569238584103" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="98_23506623" type="image" x="8810.33980903134" y="-7277.587577652521" r="0" s="3.050366256780607">
+      <source w="720" h="540">1129186733<mask x="28.3" y="136.8" w="681.0500000000001" h="374.8"/>
+      <url>1129186733.swf</url></source>
+      <sourceUrl>Persona Étudiant.pdf</sourceUrl>
+    <resource><id>1129186733</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/4/5/9/ceff7b7541d56ced0363fb70dd323f8f2d4ed.swf</url></resource></object>
+    <object id="97_23506623" type="text" x="8822.449261086897" y="-8013.236598480897" r="0" s="4.522143933804013" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[II.3) Définition des personas : persona Étudiant]]></text>
+      </p>
+    </object>
+    <object id="99_23506623" type="button" x="11771.079453144828" y="-7345.934712196215" r="0" s="2.5251329908563847" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="101_23506623" type="text" x="11783.697754044997" y="-8014.602072093005" r="0" s="4.522143933804013" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[II.3) Définition des personas : persona Salarié]]></text>
+      </p>
+    </object>
+    <object id="102_23506623" type="image" x="11783.203123875366" y="-7281.148813717993" r="0" s="3.016976407033331">
+      <source w="720" h="540">1129203318<mask x="26.6" y="134.75" w="683.4" h="378.6"/>
+      <url>1129203318.swf</url></source>
+      <sourceUrl>Persona Salarié.pdf</sourceUrl>
+    <resource><id>1129203318</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/9/2/7/040d334f407c033221cc0d296844ac38a778a.swf</url></resource></object>
+    <object id="103_23506623" type="button" x="14720.735523324727" y="-7350.391897670397" r="0" s="2.5251329908563847" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="104_23506623" type="text" x="14702.099999999999" y="-7982.799999999999" r="0" s="4.522143933804013" class="strong">
+      <height>27.1875</height>
+      <width>495.1084488586535</width>
+      <p align="center">
+        <text><![CDATA[II.4) Scénario avant notre service]]></text>
+      </p>
+    </object>
+    <object id="26_23506623" type="text" x="-6608.268796069373" y="-2576.895281333626" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>517.0394550885176</width>
+      <p>
+        <text><![CDATA[III.2) Modèles]]></text>
+      </p>
+    </object>
+    <object id="31_23506623" type="image" x="-3046.082638207886" y="-3295.751522197545" r="0" s="1.7964282312859303">
+      <source w="1064" h="733">1129744523<url>1129744523.png</url></source>
+      <sourceUrl>Storyboard du second scénario.png</sourceUrl>
+    <resource><id>1129744523</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/f/f/91ac99627992005f0cd69b3e4d15609a2d52b.png</url></resource></object>
+    <object id="35_23506623" type="button" x="2984.0729289906503" y="-3899.887736312891" r="0" s="2.407606569519048" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1054.592359498432</w>
+        <h>1035.3928162562825</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="68_23506623" type="text" x="2979.929892558831" y="-5039.9019413636015" r="0" s="4.311671299199492" class="strong">
+      <height>54.375</height>
+      <width>408.17040855984345</width>
+      <p align="center">
+        <text><![CDATA[III.2) Modèles :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[décomposition hiérarchique]]></text>
+      </p>
+    </object>
+    <object id="56_23506623" type="image" x="2992.0152797907795" y="-3752.001112792976" r="0" s="3.1420099789829905">
+      <source w="595" h="841">1129793868<mask x="54.55" y="76.55" w="484.99999999999994" h="699.75"/>
+      <url>1129793868.swf</url></source>
+      <sourceUrl>Décomposition hiérarchique (Microsoft Office).pdf</sourceUrl>
+    <resource><id>1129793868</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/7/e/0f663ac134291d8d7f51bd2f6c2fc4e6cb153.swf</url></resource></object>
+    <object id="91_23506623" type="image" x="5834.142400932444" y="-3871.5656675904515" r="0" s="3.924627382556416">
+      <source w="595" h="841">1129793873<mask x="53.7" y="51.1" w="422.3" h="441.6"/>
+      <url>1129793873.swf</url></source>
+      <sourceUrl>Décomposition hiérarchique (Microsoft Office).pdf</sourceUrl>
+    <resource><id>1129793873</id><url>http://0103.static.prezi.com.s3.amazonaws.com/converted/2/f/6/b3b496c23f34070eb8f2f273d81c6333f6462.swf</url></resource></object>
+    <object id="92_23506623" type="button" x="5862.464469654886" y="-3911.849586512788" r="0" s="2.407606569519048" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1054.592359498432</w>
+        <h>1035.3928162562825</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="93_23506623" type="text" x="5858.321433223067" y="-5051.863791563499" r="0" s="4.311671299199492" class="strong">
+      <height>54.375</height>
+      <width>408.17040855984345</width>
+      <p align="center">
+        <text><![CDATA[III.2) Modèles :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[décomposition hiérarchique]]></text>
+      </p>
+    </object>
+    <object id="96_23506623" type="button" x="8778.482931355644" y="-3425.6798614446107" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="105_23506623" type="text" x="8829.82526457602" y="-3974.0027112014195" r="0" s="4.522143933804014" class="strong">
+      <height>81.5625</height>
+      <width>292.2276861249832</width>
+      <p align="center">
+        <text><![CDATA[III.2) Modèles :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[analyse moyens-fins (means-ends)]]></text>
+      </p>
+    </object>
+    <object id="109_23506623" type="image" x="8778.415012725616" y="-3239.7186524229346" r="0" s="3.413140435146573">
+      <source w="570" h="352">1129824868<mask x="15" y="56" w="544" h="283"/>
+      <url>1129824868.png</url></source>
+      <sourceUrl>Sans titre 2.png</sourceUrl>
+    <resource><id>1129824868</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/d/c/9051b6ba8fd91310c5b1ee8a12f87c6bd360c.png</url></resource></object>
+    <object id="114_23506623" type="button" x="11738.105153535553" y="-3425.883617334701" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="115_23506623" type="text" x="11768.664385966802" y="-3555.319154390251" r="0" s="3.3865558121732606" class="body">
+      <height>54.375</height>
+      <width>662.8996868558028</width>
+      <p align="justify">
+        <text><![CDATA[Annulé, car ce diagramme n'était pas pertinent à modéliser dans le cadre de notre projet.]]></text>
+      </p>
+    </object>
+    <object id="116_23506623" type="text" x="11789.44748675593" y="-4035.707624591245" r="0" s="4.5221439338040135" class="strong">
+      <height>54.375</height>
+      <width>292.2276861249832</width>
+      <p align="center">
+        <text><![CDATA[III.2) Modèles :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[diagramme de flux]]></text>
+      </p>
+    </object>
+    <object id="117_23506623" type="text" x="-6813.184358018495" y="1371.820489342525" r="0" s="4.860816569672049" class="body">
+      <height>54.375</height>
+      <width>448.4502120598832</width>
+      <p>
+        <text><![CDATA[IV.2) Maquette Balsamiq :]]></text>
+      </p>
+      <p>
+        <text><![CDATA[accueil (utilisateur connecté)]]></text>
+      </p>
+    </object>
+    <object id="118_23506623" type="image" x="-3092.4031438882316" y="-167.35150439350335" r="0" s="3.0354655129968804">
+      <source w="747" h="774">1129869513<url>1129869513.png</url></source>
+      <sourceUrl>Accueil (utilisateur déconnecté).png</sourceUrl>
+    <resource><id>1129869513</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/f/f/ae281db4f6657728bf378e4ae61cc45a01462.png</url></resource></object>
+    <object id="119_23506623" type="button" x="20.579344899038777" y="-305.4979978741788" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1130.7085395258089</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="120_23506623" type="text" x="22.60475559984909" y="-1488.7318660717406" r="0" s="4.522143933804014" class="strong">
+      <height>54.375</height>
+      <width>463.1346671065872</width>
+      <p align="center">
+        <text><![CDATA[IV.2) Maquette Balsamiq :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[accueil (utilisateur connecté)]]></text>
+      </p>
+    </object>
+    <object id="122_23506623" type="image" x="20.64726352906855" y="-169.32114466436843" r="0" s="3.03417123768398">
+      <source w="747" h="774">1129876558<url>1129876558.png</url></source>
+      <sourceUrl>Accueil (utilisateur connecté).png</sourceUrl>
+    <resource><id>1129876558</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/f/5/41c3d865066d27e3b5ff33f2d5a50565ee0ee.png</url></resource></object>
+    <object id="123_23506623" type="text" x="-6813.3252900725165" y="1810.846513855352" r="0" s="4.860816569672048" class="body">
+      <height>54.375</height>
+      <width>448.4502120598832</width>
+      <p>
+        <text><![CDATA[IV.3) Maquette Balsamiq :]]></text>
+      </p>
+      <p>
+        <text><![CDATA[le reste du site Connectivity]]></text>
+      </p>
+    </object>
+    <object id="124_23506623" type="button" x="3084.38874554471" y="357.9990988872393" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="125_23506623" type="text" x="3114.748373168046" y="376.9483966655617" r="0" s="3.3865558121732606" class="body">
+      <height>108.75</height>
+      <width>662.8996868558028</width>
+      <p align="justify">
+        <text><![CDATA[Annulé suite à l'apprentissage d'Axure.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[En effet, il a été décidé de réaliser et de développer plutôt la maquette Axure, celle-ci permettant d'aller plus loin dans le détail.]]></text>
+      </p>
+    </object>
+    <object id="126_23506623" type="text" x="3114.3652166875027" y="-237.01864702280085" r="0" s="4.5221439338040135" class="strong">
+      <height>54.375</height>
+      <width>439.46669353084025</width>
+      <p align="center">
+        <text><![CDATA[IV.3) Maquette Balsamiq :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[le reste du site Connectivity]]></text>
+      </p>
+    </object>
+    <object id="127_23506623" type="text" x="-7151.152555840897" y="5668.081350509509" r="0" s="4.860816569672049" class="body">
+      <height>27.1875</height>
+      <width>286.4678061976922</width>
+      <p>
+        <text><![CDATA[V.2) Dossier Axure]]></text>
+      </p>
+    </object>
+    <object id="128_23506623" type="text" x="-6507.6651145297665" y="4121.035487257602" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>567.4266274422705</width>
+      <p>
+        <text><![CDATA[V.1.1) Accueil (utilisateur déconnecté)]]></text>
+      </p>
+    </object>
+    <object id="129_23506623" type="text" x="-7198.981216735956" y="4679.640224288172" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>196.6397896917917</width>
+      <p>
+        <text><![CDATA[V.1.4) Forums]]></text>
+      </p>
+    </object>
+    <object id="130_23506623" type="text" x="-7154.290758176332" y="4872.664970832952" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>220.6892603735216</width>
+      <p>
+        <text><![CDATA[V.1.5) À propos]]></text>
+      </p>
+    </object>
+    <object id="131_23506623" type="text" x="-7061.445990925548" y="5059.780796565136" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>270.4699541897647</width>
+      <p>
+        <text><![CDATA[V.1.6) Inscription]]></text>
+      </p>
+    </object>
+    <object id="132_23506623" type="text" x="-7061.445990925548" y="5241.463131894932" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>270.4699541897647</width>
+      <p>
+        <text><![CDATA[V.1.7) Connexion]]></text>
+      </p>
+    </object>
+    <object id="133_23506623" type="text" x="-6507.754442257711" y="4309.782505884114" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>567.4266274422705</width>
+      <p>
+        <text><![CDATA[V.1.2) Accueil (utilisateur connecté)]]></text>
+      </p>
+    </object>
+    <object id="134_23506623" type="text" x="-7035.618034849556" y="4498.256704216894" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>284.1454013117191</width>
+      <p>
+        <text><![CDATA[V.1.3) Commentaires]]></text>
+      </p>
+    </object>
+    <object id="135_23506623" type="text" x="-6815.667545651585" y="5419.437968564834" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>402.6659430353239</width>
+      <p>
+        <text><![CDATA[V.1.8) Page de présentation]]></text>
+      </p>
+    </object>
+    <object id="136_23506623" type="text" x="-6506.855583210603" y="5874.39043491493" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>567.4266274422705</width>
+      <p>
+        <text><![CDATA[V.2.1) Lien Axshare]]></text>
+      </p>
+    </object>
+    <object id="137_23506623" type="text" x="-6506.944910938549" y="6063.137453541442" r="0" s="3.725211393390585" class="body">
+      <height>27.1875</height>
+      <width>567.4266274422705</width>
+      <p>
+        <text><![CDATA[V.2.2) Ce que l'on a voulu illustrer]]></text>
+      </p>
+    </object>
+    <object id="138_23506623" type="text" x="-6414.933327670249" y="6302.274526824334" r="0" s="3.725211393390585" class="body">
+      <height>54.375</height>
+      <width>616.9146146126095</width>
+      <p>
+        <text><![CDATA[V.2.3) Notre retour d'expérience]]></text>
+      </p>
+      <p indent="2">
+        <text><![CDATA[  sur Axure]]></text>
+      </p>
+    </object>
+    <object id="140_23506623" type="image" x="-1.630047120716217" y="3964.88586525144" r="0" s="2.3579312147499794">
+      <source w="1000" h="683">1130095493<url>1130095493.png</url></source>
+      <sourceUrl>Accueil (utilisateur connecté).png</sourceUrl>
+    <resource><id>1130095493</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/3/a/eda7872abf900bed63cc9c5788a83f931417c.png</url></resource></object>
+    <object id="141_23506623" type="image" x="-3071.0766940588637" y="3966.515912372155" r="0" s="2.3529311861403936">
+      <source w="1003" h="683">1130107838<url>1130107838.png</url></source>
+      <sourceUrl>Accueil (utilisateur déconnecté).png</sourceUrl>
+    <resource><id>1130107838</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/4/9/600091f082c91723fb985e0ffbbdc225ad307.png</url></resource></object>
+    <object id="142_23506623" type="button" x="3036.6419486337386" y="3694.662923552549" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>941.0881343166304</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="169_23506623" type="image" x="3032.159319051771" y="3760.790382011797" r="0" s="2.329345502496242">
+      <source w="1003" h="885">1130140913<url>1130140913.png</url></source>
+      <sourceUrl>Commentaires.png</sourceUrl>
+    <resource><id>1130140913</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/a/7/6e5fd4bd15b69db7eb54c85a6f1cad2355a51.png</url></resource></object>
+    <object id="143_23506623" type="text" x="3034.8081456229343" y="2610.72421971667" r="0" s="4.5221439338040135" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[V.1.3) Maquette Axure :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[commentaires]]></text>
+      </p>
+    </object>
+    <object id="148_23506623" type="button" x="6024.99375131627" y="3871.9052607406006" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>798.5000000114995</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="149_23506623" type="text" x="6024.256325704458" y="3005.835610883665" r="0" s="4.5221439338040135" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[V.1.4) Maquette Axure :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[forums]]></text>
+      </p>
+    </object>
+    <object id="154_23506623" type="button" x="9003.565271274505" y="3863.415431986872" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>798.5000000114995</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="155_23506623" type="text" x="9002.827845662692" y="2997.3457821299357" r="0" s="4.522143933804014" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[V.1.5) Maquette Axure :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[à propos]]></text>
+      </p>
+    </object>
+    <object id="157_23506623" type="button" x="12004.346183252494" y="3856.827324873979" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>798.5000000114995</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="158_23506623" type="text" x="12003.608757640684" y="2990.7576750170424" r="0" s="4.522143933804015" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[V.1.6) Maquette Axure :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[inscription]]></text>
+      </p>
+    </object>
+    <object id="160_23506623" type="button" x="14996.297673326604" y="3854.8576846031137" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>798.5000000114995</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="161_23506623" type="text" x="14995.560247714797" y="2988.7880347461764" r="0" s="4.522143933804015" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[V.1.7) Maquette Axure :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[connexion]]></text>
+      </p>
+    </object>
+    <object id="166_23506623" type="button" x="17963.45886343983" y="3399.6282495127302" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1160.3498383094484</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="167_23506623" type="text" x="17928.4" y="2091.25" r="0" s="4.522143933804015" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[V.1.8) Maquette Axure :]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[page de présentation]]></text>
+      </p>
+    </object>
+    <object id="170_23506623" type="image" x="6024.99375131627" y="3891.941256599401" r="0" s="2.435824662306602">
+      <source w="1003" h="510">1130141403<url>1130141403.png</url></source>
+      <sourceUrl>Forums.png</sourceUrl>
+    <resource><id>1130141403</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/e/4/ad930436627615a5856cb625da44c510c58b7.png</url></resource></object>
+    <object id="171_23506623" type="image" x="9003.497352644476" y="3961.014503339739" r="0" s="2.2600317093489815">
+      <source w="1003" h="735">1130141833<url>1130141833.png</url></source>
+      <sourceUrl>À propos.png</sourceUrl>
+    <resource><id>1130141833</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/2/3/55d59a3117f81a052a9a63ed148594ec7595c.png</url></resource></object>
+    <object id="172_23506623" type="image" x="12001.493600791244" y="3894.6580018005943" r="0" s="2.4131645898403593">
+      <source w="1003" h="596">1130142573<url>1130142573.png</url></source>
+      <sourceUrl>Inscription.png</sourceUrl>
+    <resource><id>1130142573</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/f/3/9e3b99e05830b6bd50525e6671a8165fa972b.png</url></resource></object>
+    <object id="173_23506623" type="image" x="14996.161836066547" y="3882.500567025254" r="0" s="2.4443083222980797">
+      <source w="1003" h="496">1130143248<url>1130143248.png</url></source>
+      <sourceUrl>Connexion.png</sourceUrl>
+    <resource><id>1130143248</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/a/d/78d1a95d89a97fd27cb5c33787b4a7907efff.png</url></resource></object>
+    <object id="174_23506623" type="image" x="17950.75" y="2908.15" r="0" s="2.50025809301505">
+      <source w="980" h="502">1130143758<url>1130143758.png</url></source>
+      <sourceUrl>Page de présentation 1.png</sourceUrl>
+    <resource><id>1130143758</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/2/d/bcd8f7b0016386235862cce92f10c74049846.png</url></resource></object>
+    <object id="175_23506623" type="button" x="20922.06230616929" y="3647.0156783781595" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>961.3434559232962</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="178_23506623" type="image" x="17956.3" y="4087.45" r="0" s="2.479416373871878">
+      <source w="992" h="448">1130165893<url>1130165893.png</url></source>
+      <sourceUrl>Page de présentation 2.png</sourceUrl>
+    <resource><id>1130165893</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/9/f/a6c24a6025db7fc838cb60d849d941462f7d3.png</url></resource></object>
+    <object id="47_23506623" type="image" x="14719.949999999999" y="-7251.15" r="0" s="1.9412761861855696">
+      <source w="1038" h="676">1131882658<url>1131882658.png</url></source>
+      <sourceUrl>Storyboard du scénario avant notre service.png</sourceUrl>
+    <resource><id>1131882658</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/c/8/ee23d1b7ea107329fc830fdb70683689ccd5a.png</url></resource></object>
+    <object id="150_23506623" type="button" x="-18286.39027167336" y="1227.1106508690445" r="0" s="11.689114083666498" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1058.8235294117646</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="151_23506623" type="image" x="-18413.487018666317" y="899.542101178186" r="0" s="14.386965493226214">
+      <source w="562" h="181">1133246173<url>1133246173.png</url></source>
+      <sourceUrl>logo.png</sourceUrl>
+    <resource><id>1133246173</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/1/8/2f06ac0c27d00c5af1c5e197d7f3ee4529927.png</url></resource></object>
+    <object id="152_23506623" type="text" x="-18287.88451894783" y="-1193.0508617388405" r="0" s="17.631211617695822" class="strong">
+      <height>81.5625</height>
+      <width>581.2962948895605</width>
+      <p align="center">
+        <text><![CDATA[IF10]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[Conception centrée usage de logiciels et systèmes interactifs]]></text>
+      </p>
+    </object>
+    <object id="153_23506623" type="text" x="-22173.472398185557" y="2810.958033763736" r="0" s="12.380388304829951" class="body">
+      <height>27.1875</height>
+      <width>194.0400418074772</width>
+      <p>
+        <text weight="bold"><![CDATA[Réalisé par :]]></text>
+      </p>
+    </object>
+    <object id="156_23506623" type="text" x="-21591.313206844883" y="3383.5158561637554" r="0" s="12.380388304829951" class="body">
+      <height>27.1875</height>
+      <width>191.5400418074772</width>
+      <p>
+        <text><![CDATA[Anouar FOURTI]]></text>
+      </p>
+    </object>
+    <object id="159_23506623" type="text" x="-21591.67975890084" y="3978.9370883176143" r="0" s="12.380388304829951" class="body">
+      <height>27.1875</height>
+      <width>191.5400418074772</width>
+      <p>
+        <text><![CDATA[Florent LUCET]]></text>
+      </p>
+    </object>
+    <object id="162_23506623" type="text" x="-18635.506702994346" y="3383.5670247057287" r="0" s="12.380388304829951" class="body">
+      <height>27.1875</height>
+      <width>225.02040099168408</width>
+      <p>
+        <text><![CDATA[Jimmy PAUPHILET]]></text>
+      </p>
+    </object>
+    <object id="163_23506623" type="text" x="-18537.95057964136" y="3979.12709988824" r="0" s="12.380388304829951" class="body">
+      <height>27.1875</height>
+      <width>240.81130632443384</width>
+      <p>
+        <text><![CDATA[Thanh-Tuan TRINH]]></text>
+      </p>
+    </object>
+    <object id="164_23506623" type="text" x="-15348.319903397503" y="2856.8400611581133" r="0" s="12.380388304829951" class="body">
+      <height>27.1875</height>
+      <width>194.0400418074772</width>
+      <p>
+        <text weight="bold"><![CDATA[Encadré par :]]></text>
+      </p>
+    </object>
+    <object id="165_23506623" type="text" x="-14525.96056871115" y="3429.313246638705" r="0" s="12.380388304829951" class="body">
+      <height>27.1875</height>
+      <width>238.83744315784008</width>
+      <p>
+        <text><![CDATA[Pascal SALEMBIER]]></text>
+      </p>
+    </object>
+    <object id="168_23506623" type="button" x="-14694.147170439706" y="-8987.638949361646" r="0" s="5.103041150369908" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1058.8235294117646</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="177_23506623" type="button" x="-21647.107920066355" y="-8987.582981811016" r="0" s="5.188809431351913" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1058.8235294117646</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="179_23506623" type="text" x="-21648.05936842703" y="-10210.97767099005" r="0" s="7.8265124690583505" class="strong">
+      <height>27.1875</height>
+      <width>581.2962948895605</width>
+      <p align="center">
+        <text><![CDATA[Introduction]]></text>
+      </p>
+    </object>
+    <object id="180_23506623" type="text" x="-21697.758553384756" y="-8890.647184123203" r="0" s="5.678934248754717" class="body">
+      <height>244.6875</height>
+      <width>886.4600692910593</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Qu’est-ce que Connectivity ?]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Trouver l’emplacement d’une borne Wi-Fi]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Accéder à des informations détaillées sur les bornes Wi-Fi]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Partager son expérience d’utilisation d’une borne]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Connaître les avis de la communauté]]></text>
+      </p>
+    </object>
+    <object id="181_23506623" type="button" x="-18424.01447866779" y="10505.858934395854" r="0" s="7.545310398555706" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1058.8235294117646</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="182_23506623" type="text" x="-18429.723168831853" y="8730.288390720265" r="0" s="11.380927879215992" class="strong">
+      <height>27.1875</height>
+      <width>581.2962948895605</width>
+      <p align="center">
+        <text><![CDATA[Conclusion]]></text>
+      </p>
+    </object>
+    <object id="183_23506623" type="text" x="-18428.28563550404" y="10608.228818844857" r="0" s="8.258025700643044" class="body">
+      <height>190.3125</height>
+      <width>918.5967504825836</width>
+      <p listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Des améliorations nécessaires pour que le projet soit viable]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Caractère primordial des tests utilisateur]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Apports du projet]]></text>
+      </p>
+      <p>
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Réalisation du projet envisageable]]></text>
+      </p>
+    </object>
+    <object id="184_23506623" type="text" x="-14695.32248900289" y="-10189.374196447612" r="0" s="7.697144349177247" class="strong">
+      <height>27.1875</height>
+      <width>581.2962948895605</width>
+      <p align="center">
+        <text><![CDATA[Plan]]></text>
+      </p>
+    </object>
+    <object id="185_23506623" type="text" x="-16183.132261639874" y="-9701.204487629631" r="0" s="6.513022777785349" class="body">
+      <height>27.1875</height>
+      <width>244.5400418074772</width>
+      <p>
+        <text><![CDATA[I) État de l'art]]></text>
+      </p>
+    </object>
+    <object id="186_23506623" type="text" x="-15854.746267814035" y="-9284.32293524105" r="0" s="6.513022777785349" class="body">
+      <height>54.375</height>
+      <width>345.5628782228337</width>
+      <p>
+        <text><![CDATA[II) Analyse des besoins et modélisation]]></text>
+      </p>
+    </object>
+    <object id="187_23506623" type="text" x="-16254.634417051611" y="-8888.520417199328" r="0" s="6.513022777785349" class="body">
+      <height>27.1875</height>
+      <width>222.6900418074772</width>
+      <p>
+        <text><![CDATA[III) Conception]]></text>
+      </p>
+    </object>
+    <object id="188_23506623" type="text" x="-15991.978701954065" y="-8563.572818252735" r="0" s="6.513022777785349" class="body">
+      <height>27.1875</height>
+      <width>303.4900418074772</width>
+      <p>
+        <text><![CDATA[IV) Prédéveloppement]]></text>
+      </p>
+    </object>
+    <object id="189_23506623" type="text" x="-15931.253909522604" y="-8250.43437248868" r="0" s="6.513022777785349" class="body">
+      <height>27.1875</height>
+      <width>321.9400418074772</width>
+      <p>
+        <text><![CDATA[V) Évaluation experte]]></text>
+      </p>
+    </object>
+    <object id="190_23506623" type="text" x="-15929.239077700002" y="-7939.2547909966015" r="0" s="6.513022777785349" class="body">
+      <height>27.1875</height>
+      <width>322.8900418074772</width>
+      <p>
+        <text><![CDATA[VI) Tests utilisateur]]></text>
+      </p>
+    </object>
+    <object id="191_23506623" type="shape" x="-18419.81691237068" y="6463.378720080838" r="-90.00000000000007" s="19.302023387214" class="line3">
+      <geom type="line">
+        <sp>89.86362266466415 0</sp>
+        <ep>-89.86362266466415 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="192_23506623" type="shape" x="-21673.378533032388" y="-4837.980875593871" r="-90.00000000000007" s="19.302023387214" class="line3">
+      <geom type="line">
+        <sp>131.79636748732415 0</sp>
+        <ep>-131.79636748732412 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="193_23506623" type="shape" x="-14675.923580656428" y="-4862.606597870221" r="-90.00000000000011" s="19.302023387214" class="line3">
+      <geom type="line">
+        <sp>131.79636748732415 0</sp>
+        <ep>-131.79636748732412 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="197_23506623" type="text" x="20906.35" y="2606" r="0" s="4.522143933804015" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[V.2.1) Lien Axshare]]></text>
+      </p>
+    </object>
+    <object id="198_23506623" type="text" x="20380.499999999996" y="2843.25" r="0" s="3.2301028098600106" class="body">
+      <height>27.1875</height>
+      <width>-374.4609375</width>
+      <p>
+        <text><![CDATA[http://e3p2y8.axshare.com/]]></text>
+      </p>
+    </object>
+    <object id="199_23506623" type="text" x="20936.249999999996" y="3238.1499999999996" r="0" s="4.522143933804015" class="strong">
+      <height>27.1875</height>
+      <width>546.6959312976331</width>
+      <p align="center">
+        <text><![CDATA[V.2.2) Ce que l'on a voulu illustrer]]></text>
+      </p>
+    </object>
+    <object id="200_23506623" type="text" x="20927.499999999996" y="4044.1500000000005" r="0" s="3.2301028098600106" class="body">
+      <height>380.625</height>
+      <width>718.0692191085825</width>
+      <p align="justify">
+        <text><![CDATA[Dans notre maquette, nous avons mis en avant une carte interactive. C’est dessus que se trouve la majorité des actions de Connectivity : on y place des marqueurs, on note ou commente ceux placés par les autres utilisateurs. Le menu de gauche est « dynamique », il change selon l’action, il peut être camouflé. L’idée principale de notre site est de pouvoir faire un nombre important d’actions diverses sur une même page, sans avoir à charger une autre page, et ceci de manière intuitive. Le menu et les instructions nous semblent clairs pour pouvoir guider l’utilisateur dans la navigation sur la carte et les autres sections du site.]]></text>
+      </p>
+    </object>
+    <object id="201_23506623" type="button" x="23865.95" y="3647.5" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>961.3434559232962</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="204_23506623" type="text" x="23879.5" y="2758.5" r="0" s="4.522143933804015" class="strong">
+      <height>54.375</height>
+      <width>546.6959312976331</width>
+      <p align="center">
+        <text><![CDATA[V.2.3) Notre retour d'expérience]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[sur Axure]]></text>
+      </p>
+    </object>
+    <object id="206_23506623" type="text" x="23870.9" y="3785.2499999999995" r="0" s="3.2301028098600106" class="body">
+      <height>462.1875</height>
+      <width>722</width>
+      <p align="justify">
+        <text><![CDATA[Au départ plutôt sceptique envers cet outil, on se rend rapidement compte qu’il permet de réaliser une maquette dynamique et plutôt complète sur un laps de temps très court. Bien entendu, les fonctionnalités ne sont pas infinies et il arrive parfois d’être bloqué car on souhaitait faire une chose que ne permet pas le logiciel, mais il remplit parfaitement son rôle. En seulement quelques heures, nous avons mis en place la maquette de Connectivity. Facile à prendre en main, Axure permet d’obtenir un aperçu du projet final, sans être ralenti par les contraintes techniques d’un langage de programmation. Il a aussi l’avantage de fournir une maquette sur laquelle on peut interagir, ce qui est bien plus plaisant qu’une maquette vidéo, papier ou Powerpoint par exemple.]]></text>
+      </p>
+    </object>
+    <object id="207_23506623" type="text" x="-7081.951111627425" y="7549.8786678283195" r="0" s="4.522143933804014" class="body">
+      <height>27.1875</height>
+      <width>286.4678061976922</width>
+      <p>
+        <text><![CDATA[VI.1) Préparation]]></text>
+      </p>
+    </object>
+    <object id="208_23506623" type="text" x="-7215.651111627426" y="8449.228667828318" r="0" s="4.522143933804014" class="body">
+      <height>27.1875</height>
+      <width>228.4678061976922</width>
+      <p>
+        <text><![CDATA[VI.2) Passation]]></text>
+      </p>
+    </object>
+    <object id="209_23506623" type="text" x="-6767.251111627425" y="7720.278667828318" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>651.5266274422705</width>
+      <p>
+        <text><![CDATA[VI.1.1) Identification des utilisateurs visés]]></text>
+      </p>
+    </object>
+    <object id="210_23506623" type="text" x="-6757.651111627426" y="8231.978667828318" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>658.9397896917917</width>
+      <p>
+        <text><![CDATA[VI.1.4) Définition/description de l’interface]]></text>
+      </p>
+    </object>
+    <object id="214_23506623" type="text" x="-6581.001111627425" y="7881.328667828318" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>794.6266274422705</width>
+      <p>
+        <text><![CDATA[VI.1.2) Choix des tâche(s) qui va/vont être analysée(s)]]></text>
+      </p>
+    </object>
+    <object id="215_23506623" type="text" x="-6577.009978177003" y="8062.428667828316" r="0" s="2.600211108323223" class="body">
+      <height>54.375</height>
+      <width>797.8454013117191</width>
+      <p>
+        <text><![CDATA[VI.1.3) Détermination de la séquence correcte d’actions pour réaliser la tâche]]></text>
+      </p>
+    </object>
+    <object id="220_23506623" type="text" x="-6892.903369339111" y="8630.66490859233" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>553.6363636363636</width>
+      <p>
+        <text><![CDATA[VI.2.1) Cognitive Walkthrough – Anouar]]></text>
+      </p>
+    </object>
+    <object id="221_23506623" type="text" x="-6814.655861564698" y="9084.12866782832" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>613.9397896917917</width>
+      <p>
+        <text><![CDATA[VI.2.4) Cognitive Walkthrough – Thanh-Tuan]]></text>
+      </p>
+    </object>
+    <object id="222_23506623" type="text" x="-6880.867513596772" y="8791.71490859233" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>562.7766274422705</width>
+      <p>
+        <text><![CDATA[VI.2.2) Cognitive Walkthrough – Florent]]></text>
+      </p>
+    </object>
+    <object id="223_23506623" type="text" x="-6913.5393567737065" y="8937.452037519131" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>537.7954013117192</width>
+      <p>
+        <text><![CDATA[VI.2.3) Cognitive Walkthrough – Jimmy]]></text>
+      </p>
+    </object>
+    <object id="224_23506623" type="text" x="-6808.701637071893" y="9299.536003484958" r="0" s="4.522143933804014" class="body">
+      <height>27.1875</height>
+      <width>409.2136376719389</width>
+      <p>
+        <text><![CDATA[VI.3) Inspection ergonomique]]></text>
+      </p>
+    </object>
+    <object id="225_23506623" type="text" x="-6874.9941019762155" y="9480.972244248975" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>568.8863636363636</width>
+      <p>
+        <text><![CDATA[VI.3.1) Inspection ergonomique – Anouar]]></text>
+      </p>
+    </object>
+    <object id="226_23506623" type="text" x="-6801.426974196782" y="9934.436003484963" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>625.5397896917917</width>
+      <p>
+        <text><![CDATA[VI.3.4) Inspection ergonomique – Thanh-Tuan]]></text>
+      </p>
+    </object>
+    <object id="227_23506623" type="text" x="-6856.067686796819" y="9642.022244248972" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>583.2266274422705</width>
+      <p>
+        <text><![CDATA[VI.3.2) Inspection ergonomique – Florent]]></text>
+      </p>
+    </object>
+    <object id="228_23506623" type="text" x="-6892.899867747069" y="9787.759373175777" r="0" s="2.600211108323223" class="body">
+      <height>27.1875</height>
+      <width>555.0954013117191</width>
+      <p>
+        <text><![CDATA[VI.3.3) Inspection ergonomique – Jimmy]]></text>
+      </p>
+    </object>
+    <object id="229_23506623" type="text" x="-3067.75" y="5560.399999999999" r="0" s="3.725211393390586" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.1.1) Identification des utilisateurs visés]]></text>
+      </p>
+    </object>
+    <object id="0_23506623" type="text" x="-3101.9" y="5857.8" r="0" s="2.241022799329524" class="body">
+      <height>135.9375</height>
+      <width>1068.6730842010163</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Étudiants :]]></text>
+        <text><![CDATA[ utilisateurs de 18-25 ans, plutôt expérimentés dans le domaine de l'informatique et habitués à l'utilisation des bornes Wi-fi.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Salariés :]]></text>
+        <text><![CDATA[ utilisateurs de 20-65 ans, expérimentés de manière très variable à l'informatique et habitués à l'utilisation des bornes Wi-fi.]]></text>
+      </p>
+    </object>
+    <object id="1_23506623" type="text" x="-3122.05" y="6232.8" r="0" s="3.725211393390586" class="strong">
+      <height>54.375</height>
+      <width>628.2814533888986</width>
+      <p align="center">
+        <text><![CDATA[VI.1.2) Choix des tâche(s) qui va/vont être analysée(s)]]></text>
+      </p>
+    </object>
+    <object id="2_23506623" type="text" x="-3462.2999999999997" y="6547.800000000001" r="0" s="2.241022799329524" class="body">
+      <height>108.75</height>
+      <width>747.030303030303</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Recherche d'une borne Wi-fi.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Affichage des caractéristiques d'une borne Wi-fi.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Ajout d'un commentaire à une borne Wi-fi.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Ajout d'une borne Wi-fi.]]></text>
+      </p>
+    </object>
+    <object id="3_23506623" type="text" x="-3105.9999999999995" y="6891.55" r="0" s="3.725211393390586" class="strong">
+      <height>54.375</height>
+      <width>628.2814533888986</width>
+      <p align="center">
+        <text><![CDATA[VI.1.3) Détermination de la séquence correcte d’actions pour réaliser la tâche]]></text>
+      </p>
+    </object>
+    <object id="4_23506623" type="text" x="-3112.149999999999" y="7738.2" r="0" s="2.241022799329524" class="body">
+      <height>598.125</height>
+      <width>1059.6475923889027</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Recherche d'une borne Wi-fi :]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[1) Saisie de l'adresse (partielle ou complète) dans le champ de recherche correspondant.]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[2) Filtrage des résultats obtenus grâce à divers caractéristiques.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Affichage des caractéristiques d'une borne Wi-fi :]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[1) Sélection d'une icône de borne Wi-fi présente sur la partie de la carte affichée.]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[2) Affichage des caractéristiques de la borne Wi-fi dans une bulle d'informations.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Ajout d'un commentaire à une borne Wi-fi :]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[1) Sélection d'une icône de borne Wi-fi présente sur la partie de la carte affichée.]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[2) Sélection du bouton poussoir "Commenter".]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[3) Saisie d'un message dans la zone de saisie correspondante.]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[4) Sélection du bouton poussoir "Envoyer".]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Ajout d'une borne Wi-fi :]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[1) Déplacement du point rouge sur la carte.]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[2) Saisie des informations de la borne.]]></text>
+      </p>
+      <p align="justify" indent="2">
+        <text><![CDATA[3) Sélection du bouton poussoir "Ajouter".]]></text>
+      </p>
+    </object>
+    <object id="5_23506623" type="image" x="-7.450000000000175" y="7054.249999999999" r="-90.0190388381446" s="2.384145196764082">
+      <source w="1154" h="837">1183074753<url>1183074753.png</url></source>
+      <sourceUrl>Définition et description de l'interface.png</sourceUrl>
+    <resource><id>1183074753</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/a/7/04ff2175257815c2d40973f7c77af2f16da33.png</url></resource></object>
+    <object id="6_23506623" type="text" x="-7.150000000000021" y="5560.45" r="0" s="3.725211393390586" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.1.4) Définition/description de l’interface]]></text>
+      </p>
+    </object>
+    <object id="7_23506623" type="button" x="3035.149999999999" y="6985.349999999999" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="9_23506623" type="text" x="3034.25759772238" y="5555.054784660368" r="0" s="3.725211393390587" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.2.1) Cognitive Walkthrough – Anouar]]></text>
+      </p>
+    </object>
+    <object id="10_23506623" type="button" x="6031.749999999999" y="6984.3" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="12_23506623" type="text" x="6030.857597722377" y="5554.004784660368" r="0" s="3.725211393390587" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.2.2) Cognitive Walkthrough – Florent]]></text>
+      </p>
+    </object>
+    <object id="55_23506623" type="button" x="8999.5" y="6983.45" r="0" s="2.5251329908563838" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="63_23506623" type="text" x="8998.60759772238" y="5553.154784660368" r="0" s="3.725211393390586" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.2.3) Cognitive Walkthrough – Jimmy]]></text>
+      </p>
+    </object>
+    <object id="73_23506623" type="button" x="12016.399999999998" y="6978.899999999998" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="75_23506623" type="text" x="12015.507597722379" y="5548.604784660368" r="0" s="3.725211393390586" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.2.4) Cognitive Walkthrough – Thanh-Tuan]]></text>
+      </p>
+    </object>
+    <object id="76_23506623" type="button" x="15002.150000000001" y="6969.049999999998" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="94_23506623" type="text" x="15001.25759772238" y="5538.754784660369" r="0" s="3.725211393390586" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.3.1) Inspection ergonomique – Anouar]]></text>
+      </p>
+    </object>
+    <object id="100_23506623" type="button" x="17963.650000000005" y="6969.050000000001" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="107_23506623" type="text" x="17962.757597722382" y="5538.754784660369" r="0" s="3.725211393390586" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.3.2) Inspection ergonomique – Florent]]></text>
+      </p>
+    </object>
+    <object id="108_23506623" type="button" x="20930.3" y="6969.049999999998" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="111_23506623" type="text" x="20929.40759772238" y="5538.7547846603675" r="0" s="3.725211393390586" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.3.3) Inspection ergonomique – Jimmy]]></text>
+      </p>
+    </object>
+    <object id="112_23506623" type="button" x="23872.65" y="6973.3499999999985" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1269.495808318257</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="121_23506623" type="text" x="23871.75759772238" y="5543.054784660369" r="0" s="3.725211393390586" class="strong">
+      <height>27.1875</height>
+      <width>667.3491611233397</width>
+      <p align="center">
+        <text><![CDATA[VI.3.4) Inspection ergonomique – Thanh-Tuan]]></text>
+      </p>
+    </object>
+    <object id="139_23506623" type="image" x="2440.35" y="5986.45" r="0" s="1.0736976093620514">
+      <source w="886" h="531">1183350868<url>1183350868.png</url></source>
+      <sourceUrl>A1.png</sourceUrl>
+    <resource><id>1183350868</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/1/9/b0610b2fe97e05dbca4d1fc6a62a0ab3353bc.png</url></resource></object>
+    <object id="146_23506623" type="image" x="3625.75" y="6545.05" r="0" s="1.0763055600271663">
+      <source w="877" h="445">1183351213<url>1183351213.png</url></source>
+      <sourceUrl>A2.png</sourceUrl>
+    <resource><id>1183351213</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/4/9/092aa361eb8d15fad51e1131fca0b4fff20f5.png</url></resource></object>
+    <object id="176_23506623" type="image" x="2441.619019040853" y="7231.4790698793295" r="0" s="0.9651478056499181">
+      <source w="986" h="770">1183351563<url>1183351563.png</url></source>
+      <sourceUrl>A3.png</sourceUrl>
+    <resource><id>1183351563</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/7/c/5e5cfa0d7ef029bf3515f2fabf33abcd7768b.png</url></resource></object>
+    <object id="194_23506623" type="image" x="3620.219019040854" y="7946.379069879331" r="0" s="1.0983381515550525">
+      <source w="901" h="542">1183351758<url>1183351758.png</url></source>
+      <sourceUrl>A4.png</sourceUrl>
+    <resource><id>1183351758</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/9/e/70aaca7206fb46b09750817a55c441179de45.png</url></resource></object>
+    <object id="195_23506623" type="text" x="3372.3190190408545" y="5969.329069879333" r="0" s="2.660865280993277" class="body">
+      <height>27.1875</height>
+      <width>262.97109375</width>
+      <p>
+        <text><![CDATA[Recherche de borne]]></text>
+      </p>
+    </object>
+    <object id="196_23506623" type="text" x="2523.669019040854" y="6564.0290698793315" r="0" s="2.660865280993277" class="body">
+      <height>54.375</height>
+      <width>351.0280979917746</width>
+      <p align="right">
+        <text><![CDATA[Affichage des informations d'une borne]]></text>
+      </p>
+    </object>
+    <object id="202_23506623" type="text" x="3461.9190190408544" y="7214.329069879332" r="0" s="2.660865280993277" class="body">
+      <height>27.1875</height>
+      <width>330.47109375</width>
+      <p>
+        <text><![CDATA[Ajout d'un commentaire]]></text>
+      </p>
+    </object>
+    <object id="203_23506623" type="text" x="2482.3190190408545" y="7929.491302057821" r="0" s="2.660865280993278" class="body">
+      <height>27.1875</height>
+      <width>351.0280979917746</width>
+      <p align="right">
+        <text><![CDATA[Ajout d'une borne]]></text>
+      </p>
+    </object>
+    <object id="211_23506623" type="image" x="5431.269019040855" y="5981.179069879331" r="0" s="1.111720354292499">
+      <source w="877" h="445">1183351213<url>1183351213.png</url></source>
+      <sourceUrl>A2.png</sourceUrl>
+    <resource><id>1183351213</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/4/9/092aa361eb8d15fad51e1131fca0b4fff20f5.png</url></resource></object>
+    <object id="216_23506623" type="text" x="6361.919019040855" y="5963.979069879333" r="0" s="2.660865280993278" class="body">
+      <height>27.1875</height>
+      <width>262.97109375</width>
+      <p>
+        <text><![CDATA[Recherche de borne]]></text>
+      </p>
+    </object>
+    <object id="246_23506623" type="image" x="5430.95" y="5981" r="0" s="1.0994939811976834">
+      <source w="886" h="552">1183392563<url>1183392563.png</url></source>
+      <sourceUrl>F1.png</sourceUrl>
+    <resource><id>1183392563</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/8/0/1/ddc29dfbba6f35b8017c139d09749fee94039.png</url></resource></object>
+    <object id="217_23506623" type="text" x="5513.269019040855" y="6558.679069879334" r="0" s="2.660865280993278" class="body">
+      <height>54.375</height>
+      <width>351.0280979917746</width>
+      <p align="right">
+        <text><![CDATA[Affichage des informations d'une borne]]></text>
+      </p>
+    </object>
+    <object id="218_23506623" type="text" x="6451.519019040856" y="7208.979069879332" r="0" s="2.660865280993278" class="body">
+      <height>27.1875</height>
+      <width>330.47109375</width>
+      <p>
+        <text><![CDATA[Ajout d'un commentaire]]></text>
+      </p>
+    </object>
+    <object id="219_23506623" type="text" x="5471.919019040854" y="7924.141302057823" r="0" s="2.6608652809932782" class="body">
+      <height>27.1875</height>
+      <width>351.0280979917746</width>
+      <p align="right">
+        <text><![CDATA[Ajout d'une borne]]></text>
+      </p>
+    </object>
+    <object id="234_23506623" type="text" x="9334.919019040857" y="5958.479069879333" r="0" s="2.660865280993278" class="body">
+      <height>27.1875</height>
+      <width>262.97109375</width>
+      <p>
+        <text><![CDATA[Recherche de borne]]></text>
+      </p>
+    </object>
+    <object id="250_23506623" type="image" x="8403.6" y="5972.2" r="0" s="1.097394552803349">
+      <source w="886" h="537">1183416968<url>1183416968.png</url></source>
+      <sourceUrl>J1.png</sourceUrl>
+    <resource><id>1183416968</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/7/2/a437ddc57dd23fdd797dd357777920b321a77.png</url></resource></object>
+    <object id="235_23506623" type="text" x="8486.269019040856" y="6553.179069879332" r="0" s="2.660865280993278" class="body">
+      <height>54.375</height>
+      <width>351.0280979917746</width>
+      <p align="right">
+        <text><![CDATA[Affichage des informations d'une borne]]></text>
+      </p>
+    </object>
+    <object id="236_23506623" type="text" x="9424.519019040854" y="7203.479069879332" r="0" s="2.660865280993278" class="body">
+      <height>27.1875</height>
+      <width>330.47109375</width>
+      <p>
+        <text><![CDATA[Ajout d'un commentaire]]></text>
+      </p>
+    </object>
+    <object id="237_23506623" type="text" x="8444.919019040854" y="7918.641302057823" r="0" s="2.6608652809932782" class="body">
+      <height>27.1875</height>
+      <width>351.0280979917746</width>
+      <p align="right">
+        <text><![CDATA[Ajout d'une borne]]></text>
+      </p>
+    </object>
+    <object id="242_23506623" type="text" x="12341.669019040855" y="5958.479069879332" r="0" s="2.660865280993278" class="body">
+      <height>27.1875</height>
+      <width>262.97109375</width>
+      <p>
+        <text><![CDATA[Recherche de borne]]></text>
+      </p>
+    </object>
+    <object id="243_23506623" type="text" x="11493.019019040854" y="6553.179069879332" r="0" s="2.660865280993278" class="body">
+      <height>54.375</height>
+      <width>351.0280979917746</width>
+      <p align="right">
+        <text><![CDATA[Affichage des informations d'une borne]]></text>
+      </p>
+    </object>
+    <object id="244_23506623" type="text" x="12431.269019040856" y="7203.47906987933" r="0" s="2.660865280993278" class="body">
+      <height>27.1875</height>
+      <width>330.47109375</width>
+      <p>
+        <text><![CDATA[Ajout d'un commentaire]]></text>
+      </p>
+    </object>
+    <object id="245_23506623" type="text" x="11451.669019040859" y="7918.641302057823" r="0" s="2.6608652809932782" class="body">
+      <height>27.1875</height>
+      <width>351.0280979917746</width>
+      <p align="right">
+        <text><![CDATA[Ajout d'une borne]]></text>
+      </p>
+    </object>
+    <object id="247_23506623" type="image" x="6617.15" y="6539.6" r="0" s="1.078456552390276">
+      <source w="877" h="481">1183395038<url>1183395038.png</url></source>
+      <sourceUrl>F2.png</sourceUrl>
+    <resource><id>1183395038</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/a/6/a2f899afc0238ff326fa641fb12009f8f933b.png</url></resource></object>
+    <object id="248_23506623" type="image" x="5430.65" y="7226.2" r="0" s="0.9663798384247028">
+      <source w="987" h="767">1183406458<url>1183406458.png</url></source>
+      <sourceUrl>F3.png</sourceUrl>
+    <resource><id>1183406458</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/5/b/97b6f7a203a1b0cbadd479bb4bd767e1f1cc6.png</url></resource></object>
+    <object id="249_23506623" type="image" x="6608.95" y="7951.4" r="0" s="1.0957612092149478">
+      <source w="901" h="591">1183411398<url>1183411398.png</url></source>
+      <sourceUrl>F4.png</sourceUrl>
+    <resource><id>1183411398</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/a/3/f23b4f658756d0129b9cd39fe05e477cf75ab.png</url></resource></object>
+    <object id="251_23506623" type="image" x="9584.85" y="6537.55" r="0" s="1.0800526669468993">
+      <source w="877" h="458">1183419768<url>1183419768.png</url></source>
+      <sourceUrl>J2.png</sourceUrl>
+    <resource><id>1183419768</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/4/a/c715a2065ebad84a33a664fb32cd3da1d72a0.png</url></resource></object>
+    <object id="252_23506623" type="image" x="8404.1" y="7220.599999999999" r="0" s="0.9591450358031074">
+      <source w="987" h="612">1183420263<url>1183420263.png</url></source>
+      <sourceUrl>J3.png</sourceUrl>
+    <resource><id>1183420263</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/7/2/0e309cd442ff1b323876648e7bc1843f1dd31.png</url></resource></object>
+    <object id="253_23506623" type="image" x="9582.85" y="7912.5" r="0" s="1.097281028891509">
+      <source w="901" h="430">1183420508<url>1183420508.png</url></source>
+      <sourceUrl>J4.png</sourceUrl>
+    <resource><id>1183420508</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/6/9/7ab1ea378729cdac59ffe4e3a95a22e2b4437.png</url></resource></object>
+    <object id="254_23506623" type="image" x="11410.55" y="5976.3" r="0" s="1.1048805424699681">
+      <source w="886" h="510">1183428188<url>1183428188.png</url></source>
+      <sourceUrl>T1.png</sourceUrl>
+    <resource><id>1183428188</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/1/c/e2b49434c134cd8af5fff13a0f40c014e3563.png</url></resource></object>
+    <object id="255_23506623" type="image" x="12592.85" y="6521.2" r="0" s="1.0783126381097141">
+      <source w="877" h="507">1183428298<url>1183428298.png</url></source>
+      <sourceUrl>T2.png</sourceUrl>
+    <resource><id>1183428298</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/7/d/806fa733c3ce6e2b28a43ab8d2148f5f1bace.png</url></resource></object>
+    <object id="258_23506623" type="image" x="11410.9" y="7214.25" r="0" s="0.9636288509050784">
+      <source w="987" h="601">1183428508<url>1183428508.png</url></source>
+      <sourceUrl>T3.png</sourceUrl>
+    <resource><id>1183428508</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/9/1/3ef13ef7f8c63610a5d192b442e95773d12a7.png</url></resource></object>
+    <object id="259_23506623" type="image" x="12587.85" y="7921.05" r="0" s="1.1005180475865421">
+      <source w="901" h="450">1183428548<url>1183428548.png</url></source>
+      <sourceUrl>T4.png</sourceUrl>
+    <resource><id>1183428548</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/0/6/e1139033b1b412b6de83038994ee74c914503.png</url></resource></object>
+    <object id="260_23506623" type="image" x="15002.1" y="7018.05" r="0" s="3.824531567012143">
+      <source w="532" h="684">1183500628<url>1183500628.png</url></source>
+      <sourceUrl>IA.png</sourceUrl>
+    <resource><id>1183500628</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/5/83fd2df0ea47febb69528eaa240df35768c90.png</url></resource></object>
+    <object id="261_23506623" type="image" x="17963.1" y="6593.05" r="0" s="2.4796987437694176">
+      <source w="532" h="726">1183503123<url>1183503123.png</url></source>
+      <sourceUrl>IF1.png</sourceUrl>
+    <resource><id>1183503123</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/2/531ca0498ae633f41755f183c5834a62ec1ed.png</url></resource></object>
+    <object id="262_23506623" type="image" x="17963.35" y="7977.85" r="0" s="2.484881671781451">
+      <source w="532" h="391">1183503548<url>1183503548.png</url></source>
+      <sourceUrl>IF2.png</sourceUrl>
+    <resource><id>1183503548</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/b/8/b/9ce293222613577464019e020584c3c3109b0.png</url></resource></object>
+    <object id="263_23506623" type="image" x="20930.1" y="6734.15" r="0" s="2.9612902240582084">
+      <source w="532" h="714">1183507453<url>1183507453.png</url></source>
+      <sourceUrl>IJ1.png</sourceUrl>
+    <resource><id>1183507453</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/9/d/2069984f542714aa81c937012a7cd2148c978.png</url></resource></object>
+    <object id="264_23506623" type="image" x="20928.05" y="8107.25" r="0" s="2.9600964023630105">
+      <source w="532" h="215">1183507618<url>1183507618.png</url></source>
+      <sourceUrl>IJ2.png</sourceUrl>
+    <resource><id>1183507618</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/4/1/da0cd10310c053b610917d0dcdb7afad2afbd.png</url></resource></object>
+    <object id="265_23506623" type="image" x="23872.05" y="6635.55" r="0" s="2.752777427601929">
+      <source w="532" h="713">1183512833<url>1183512833.png</url></source>
+      <sourceUrl>IT1.png</sourceUrl>
+    <resource><id>1183512833</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/4/9/d/38d68576c31fb57c230400842725c95613254.png</url></resource></object>
+    <object id="266_23506623" type="image" x="23871.45" y="8001.8" r="0" s="2.7508783766598652">
+      <source w="532" h="280">1183512988<url>1183512988.png</url></source>
+      <sourceUrl>IT2.png</sourceUrl>
+    <resource><id>1183512988</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/b/3/6c416aa76e1d6e426043e1c664bd52012a7c4.png</url></resource></object>
+    <object id="268_23506623" type="text" x="-6643.300720057995" y="11362.846669570805" r="0" s="4.522143933804014" class="body">
+      <height>27.1875</height>
+      <width>429.6224318636191</width>
+      <p>
+        <text><![CDATA[VII.1) Protocole d'évaluation]]></text>
+      </p>
+    </object>
+    <object id="269_23506623" type="text" x="-6398.310252230786" y="12311.107914406512" r="0" s="4.522143933804014" class="body">
+      <height>54.375</height>
+      <width>538.648761044496</width>
+      <p>
+        <text><![CDATA[VII.2) Évaluation aspect performance/qualité expérience]]></text>
+      </p>
+    </object>
+    <object id="270_23506623" type="text" x="-6994.5740075737" y="11533.246669570803" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>388.32662744227054</width>
+      <p>
+        <text><![CDATA[VII.1.1) Objectifs du test]]></text>
+      </p>
+    </object>
+    <object id="271_23506623" type="text" x="-7000.774162596212" y="11983.868001742483" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>383.73978969179177</width>
+      <p>
+        <text><![CDATA[VII.1.4) Scénarios de test]]></text>
+      </p>
+    </object>
+    <object id="272_23506623" type="text" x="-6907.720949728803" y="11689.418001742482" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>455.1766274422705</width>
+      <p>
+        <text><![CDATA[VII.1.2) Nombre de participants]]></text>
+      </p>
+    </object>
+    <object id="273_23506623" type="text" x="-7006.279288507571" y="11837.668001742482" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>379.3954013117191</width>
+      <p>
+        <text><![CDATA[VII.1.3) Tâches à réaliser]]></text>
+      </p>
+    </object>
+    <object id="274_23506623" type="text" x="-6528.469838055927" y="12534.395043333318" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>747.0454545454544</width>
+      <p>
+        <text><![CDATA[VII.2.1) Échelle de satisfaction de l'utilisabilité]]></text>
+      </p>
+    </object>
+    <object id="276_23506623" type="text" x="-7133.210252230787" y="12672.607914406512" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>283.4266274422705</width>
+      <p>
+        <text><![CDATA[VII.2.2) AttrakDiff]]></text>
+      </p>
+    </object>
+    <object id="278_23506623" type="text" x="-7071.953354769695" y="12932.631756906774" r="0" s="4.522143933804014" class="body">
+      <height>27.1875</height>
+      <width>241.53938337519463</width>
+      <p>
+        <text><![CDATA[VII.3) Passation]]></text>
+      </p>
+    </object>
+    <object id="279_23506623" type="text" x="-6420.365094339293" y="13129.08291440651" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>829.6818181818182</width>
+      <p>
+        <text><![CDATA[VII.3.1) Stratégies optimales pour résoudre les scénarios]]></text>
+      </p>
+    </object>
+    <object id="280_23506623" type="text" x="-6800.221585920231" y="13555.982914406508" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>537.7397896917917</width>
+      <p>
+        <text><![CDATA[VII.3.4) Compte-rendu de la passation]]></text>
+      </p>
+    </object>
+    <object id="281_23506623" type="text" x="-6892.113893535476" y="13270.43291440651" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>466.67662744227044</width>
+      <p>
+        <text><![CDATA[VII.3.2) Résultats des tests 1/5]]></text>
+      </p>
+    </object>
+    <object id="282_23506623" type="text" x="-6889.021585920231" y="13413.08291440651" r="0" s="2.6002111083232227" class="body">
+      <height>27.1875</height>
+      <width>469.04540131171916</width>
+      <p>
+        <text><![CDATA[VII.3.3) Résultats des tests 2/5]]></text>
+      </p>
+    </object>
+    <object id="283_23506623" type="text" x="-3114.3" y="9971.15" r="0" s="2.6002111083232227" class="body">
+      <height>380.625</height>
+      <width>897.954211775134</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Performance :]]></text>
+        <text><![CDATA[ Combien de temps, et combien d'étapes, sont nécessaires pour terminer différentes tâches simples ?]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Précision :]]></text>
+        <text><![CDATA[ Combien d'erreurs ont été faites par les utilisateurs test ? Ont-elles été rédhibitoires ou rattrapable avec la bonne information ?]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Rappel :]]></text>
+        <text><![CDATA[ De quels éléments et informations se souvient l'utilisateur après le test ? Et après un certain temps de non-utilisation ?]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Réponse émotionnelle :]]></text>
+        <text><![CDATA[ Comment l'utilisateur se sent après la réalisation de tâches ? Est-il confiant, stressé ? Est-ce que l'utilisateur recommanderait ce produit à un ami ?]]></text>
+      </p>
+    </object>
+    <object id="285_23506623" type="text" x="-3060.6" y="10690.3" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[VII.1.2) Nombre de participants]]></text>
+      </p>
+    </object>
+    <object id="286_23506623" type="text" x="-3093.25" y="11026.85" r="0" s="2.6002111083232227" class="body">
+      <height>135.9375</height>
+      <width>872.5042117751341</width>
+      <p align="justify">
+        <text><![CDATA[En nous basant sur la théorie « Five users assumption », nous allons faire tester notre site internet par 5 utilisateurs. Leur niveau sera variable, allant de novice (quelqu’un qui utilise peu internet) à quelqu’un de niveau avancé (par exemple un étudiant en informatique).]]></text>
+      </p>
+    </object>
+    <object id="287_23506623" type="text" x="-3039.55" y="11444.85" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[VII.1.3) Tâches à réaliser]]></text>
+      </p>
+    </object>
+    <object id="288_23506623" type="text" x="-3069.15" y="11856.45" r="0" s="2.6002111083232227" class="body">
+      <height>190.3125</height>
+      <width>885.054211775134</width>
+      <p align="justify">
+        <text><![CDATA[Les tâches que nous avons décidées de faire tester sont celles qui ont été examinées durant l’évaluation experte par les membres du groupe, à savoir :]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[la recherche d’une borne wifi (par adresse ou filtre) ;]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[l'affichage des caractéristiques d’une borne ;]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[l'ajout d’un commentaire à une borne ;]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[l'ajout d’une borne wifi.]]></text>
+      </p>
+    </object>
+    <object id="289_23506623" type="text" x="15.15" y="9311.899999999998" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[VII.1.4) Scénarios de test]]></text>
+      </p>
+    </object>
+    <object id="290_23506623" type="text" x="18.75" y="10680.75" r="0" s="2.600211108323223" class="body">
+      <height>788.4375</height>
+      <width>839.15</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Scénario 1 :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Vous venez d’emménager à Troyes, et vous n’avez pas accès à internet. Avant votre départ, vous vérifier chez votre ami s’il n’y a pas une borne Wifi près de chez vous avec le fournisseur Free puisque vous êtes abonné chez eux et posséder des identifiants pour vous connecter. Vous avez besoin de faire un virement bancaire pour votre loyer, et vous préféreriez une borne assez sécurisée.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Scénario 2 :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Vous êtes assis dans un restaurant et vous êtes connecté à l’accès Wifi. Le restaurant est situé à Sainte-Savine et vous voyez qu’il a été répertorié sur le site internet Connectivity.  L’évaluation est plutôt mauvaise et vous décidez de rajouter votre avis. Vous décidez de noter la borne 1/5 et vous décrivez en commentaires les coupures récurrentes du réseau Wifi.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Scénario 3 :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Vous habitez près du Musée d’Art Moderne à Troyes, et vous trouvez que le Wifi que propose le musée est de très bonne qualité. Vous baladant sur le site Connectivity, vous remarquez que cette borne Wifi n’a pas été répertoriée. Voulant partager votre découverte, vous décidez d’ajouter la borne Wifi sur le site internet, en lui donnant une très bonne évaluation (5/5, bien sécurisé). Vous l’ajoutez ensuite en favori.]]></text>
+      </p>
+    </object>
+    <object id="291_23506623" type="button" x="3049" y="10692.15" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1255.3750625628477</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="292_23506623" type="text" x="3048.65" y="9220.95" r="0" s="4.5221439338040135" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[VII.2.1) Échelle de satisfaction de l'utilisabilité]]></text>
+      </p>
+    </object>
+    <object id="294_23506623" type="image" x="2988.3" y="11929.6" r="0" s="4.173694028008914">
+      <source w="484" h="125">1183765043<url>1183765043.png</url></source>
+      <sourceUrl>Echelle de satisfaction de l'utilisabilité.png</sourceUrl>
+    <resource><id>1183765043</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/e/8/7951979a1dd70ee6a696f26559deae86fe9be.png</url></resource></object>
+    <object id="293_23506623" type="text" x="3043.5" y="10507.768387247423" r="0" s="1.8572936488023022" class="body">
+      <height>1196.25</height>
+      <width>1211</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Questionnaire de satisfaction (première partie) :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Dix propositions sont données avec la possibilité de donner une note de 1 à 5 (c'est-à-dire de "tout à fait d'accord" à "pas du tout d'accord"). Une fois que l'utilisateur y a répondu, nous pouvons passons à la seconde partie : le calcul du score. Les dix propositions données sont :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[1) Je pense que je vais utiliser ce service fréquemment.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[2) Je trouve ce service inutilement complexe.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[3) Je pense que ce service est facile à utiliser.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[4) Je pense que j’aurai besoin de l’aide d’un technicien pour être capable d’utiliser ce service.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[5) J’ai trouvé que les différentes fonctions de ce service ont été bien intégrées.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[6) Je pense qu’il y a trop d’incohérence dans ce service.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[7) J’imagine que la plupart des gens serait capable d’apprendre à utiliser ce service très rapidement.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[8) J’ai trouvé ce service très lourd à utiliser.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[9) Je me sentais très en confiance en utilisant ce service.]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" indent="1">
+        <text><![CDATA[10) J’ai besoin d’apprendre beaucoup de choses avant de pouvoir utiliser ce service.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Calcul du score (seconde partie) :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Pour calculer un score, on commence par additionner la contribution de chaque item au score global. Chaque contribution va de 0 à 4. Pour les items 1,3,5,7,et 9 la contribution au score correspond à la valeur de l’échelle moins 1. Pour les items 2,4,6,8 et 10, la contribution est égale à 5 moins la position sur l’échelle.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Multiplier la somme des scores par 2,5 pour obtenir la valeur globale de satisfaction.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Les scores vont de 0 à 100.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Exemple :]]></text>
+      </p>
+    </object>
+    <object id="295_23506623" type="button" x="6040.099999999999" y="11349.76394239514" r="0" s="2.5251329908563838" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>734.1044363762875</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="296_23506623" type="text" x="6039.5" y="10717.25" r="0" s="4.5221439338040135" class="strong">
+      <height>27.1875</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[VII.2.2) AttrakDiff]]></text>
+      </p>
+    </object>
+    <object id="298_23506623" type="text" x="6049.8" y="11396.5" r="0" s="3.0251923910289507" class="body">
+      <height>108.75</height>
+      <width>727.7</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Lien AttrakDiff :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[http://eval.attrakdiff.de/attrakdiff.php?id=720bcbcc5f9e66024ec6f8b2af7ad2ac&step=1&lang=en]]></text>
+      </p>
+    </object>
+    <object id="299_23506623" type="button" x="9010.999999999998" y="10988.896943017766" r="0" s="2.525132990856384" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1012.5982825622807</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="300_23506623" type="text" x="9008.45" y="10009.55" r="0" s="4.5221439338040135" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[VII.3.1) Stratégies optimales pour résoudre les scénarios]]></text>
+      </p>
+    </object>
+    <object id="302_23506623" type="text" x="8973.25" y="11173.4" r="0" s="1.9273443592459694" class="body">
+      <height>842.8125</height>
+      <width>1211</width>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Scénario 1 :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Via le menu gauche de la carte, utiliser le champ de recherche pour chercher la ville ou la rue où on souhaite trouver une borne d’accès Wi-Fi.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Sélectionner les filtres Sécurité « Bon » et Fournisseur d’accès « Free ».]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[L’utilisateur aura alors sur la carte les bornes Wi-Fi correspondant à ses besoins.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Scénario 2 :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Se connecter au site.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Via le menu gauche de la carte, saisir  « Sainte-Savine » dans le champ de recherche.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Cliquer sur la borne du restaurant souhaité.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Cliquer sur 1 étoile.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Cliquer sur commenter.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Saisir un commentaire et cliquer sur envoyer.]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Scénario 3 :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Se connecter au site.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Via le menu gauche de la carte, saisir « Troyes Musée d’Art Moderne » dans le champ de recherche.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Glisser-déposer le marqueur rouge sur la zone voulue.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Renseigner les informations pour l’ajout d’une nouvelle borne, en spécifiant 5 étoiles.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="2">
+        <text><![CDATA[Cliquer sur la borne et cliquer sur « Ajouter à mes favoris ».]]></text>
+      </p>
+    </object>
+    <object id="303_23506623" type="button" x="12032.1" y="10675.85" r="0" s="2.5251329908563847" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1255.3750625628477</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="304_23506623" type="text" x="12033.7" y="9241.5" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>462.2940727250856</width>
+      <p align="center">
+        <text><![CDATA[VII.3.2) Résultats des tests 1/5]]></text>
+      </p>
+    </object>
+    <object id="305_23506623" type="text" x="11981.8" y="9974.3" r="0" s="1.326638320573073" class="body">
+      <height>870</height>
+      <width>1644.4</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Passation :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La passation a eu lieu chez la personne interrogée. La personne interrogé est un étudiant en mécanique, n’ayant pas un niveau très avancé en informatique, mais qui possède les bases. Nous avons testé le site internet sur un ordinateur fixe équipé d’un écran de 24’’. Le prototype a été lancé depuis le navigateur Mozilla Firefox. A la fin de la passation, nous avons fait passer le questionnaire AttrakDiff et nous lui avons demandé de remplir une échelle de satisfaction sur l’utilisabilité de notre site.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Résultats :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La réalisation des scénarios a pris environ 10 minutes. Le premier scénario était le plus simple et n’a pas pris plus de 2 minutes. Le deuxième scénario, un peu plus complexe, a duré presque 5 minutes. Le dernier scénario a pris plus ou moins 3 minutes.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Observations globales lors de la passation :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Au début de la passation, l’utilisateur n’a pas pris de temps pour se familiariser avec notre site internet.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Pendant qu’il réalisait les scénarios, l’utilisateur nous disait son ressenti sur les actions qu’il réalisait.]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Points positifs du prototype :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[L’utilisateur a réussi à remplir les trois scénarios sans trop de difficulté, ce qui montre que notre site est assez clair. ]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Il trouve que notre site est assez joli et graphique, et que les actions de base comme se connecter, commenter, etc. ressemblent vraiment à d’autres sites qu’il a déjà vu sur internet. Ceci est un bon point, puisqu’on s’appuie sur l’expérience de l’utilisateur pour ne pas qu’il soit perdu. Le menu déroulant donne un côté dynamique et moderne au site. ]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Le guidage sur le site a été efficace et la charge de travail pas trop importante,  puisqu’il a réussi à remplir les tâches en moins de 10 minutes.]]></text>
+      </p>
+    </object>
+    <object id="306_23506623" type="button" x="15029.499999999996" y="10679.7" r="0" s="2.5251329908563847" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1255.3750625628477</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="307_23506623" type="text" x="15027.25" y="9283.6" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>468.2514705694811</width>
+      <p align="center">
+        <text><![CDATA[VII.3.2) Résultats des tests 1/5]]></text>
+      </p>
+    </object>
+    <object id="309_23506623" type="button" x="17972.7" y="10684.399999999998" r="0" s="2.5251329908563847" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1255.3750625628477</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="310_23506623" type="text" x="17967.5" y="9286.25" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>462.2940727250856</width>
+      <p align="center">
+        <text><![CDATA[VII.3.3) Résultats des tests 2/5]]></text>
+      </p>
+    </object>
+    <object id="311_23506623" type="text" x="17949.25" y="9936.8" r="0" s="1.326638320573073" class="body">
+      <height>788.4375</height>
+      <width>1747.6500000000005</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Passation :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La passation a eu lieu chez la personne interrogée. La personne interrogée est un étudiant en informatique, ayant un niveau avancé en informatique, donc habitué à naviguer sur Internet. Nous avons testé le site internet sur un ordinateur portable équipé d’un écran de 17’’. Le prototype a été lancé depuis le navigateur Google Chrome. À la fin de la passation, nous avons fait passer le questionnaire AttrakDiff et nous lui avons demandé de remplir une échelle de satisfaction sur l’utilisabilité de notre site. ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Résultats :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La réalisation des scénarios a pris environ 7 minutes. Le premier scénario était le plus rapide, il lui a paru évident, il a duré 1min. Le deuxième scénario a duré 4min car il est composé de plus de tâches. Le dernier scénario a pris environ 2 minutes.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Observations globales lors de la passation :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[L’utilisateur est allé droit au but dès le départ sans prendre le temps de se familiariser avec le site.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[L’utilisateur, plutôt « connaisseur » selon lui, était plus du genre à parler des points négatifs que des points positifs.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Points positifs du prototype :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[L’utilisateur a rempli les trois scénarios plutôt facilement, donc on peut dire que l’interface est claire et les informations bien placées.]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Il a conscience que le site n’est qu’en état de prototype, mais il soulève que les formulaires de connexion et d’inscription sont bien réalisés et dans le ton de ce qu’il connaît. ]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text><![CDATA[Il a aimé la manière rapide d’accomplir les différents scénarios, et l’interface de la carte.]]></text>
+      </p>
+    </object>
+    <object id="315_23506623" type="button" x="20946.65" y="10680.75" r="0" s="2.525132990856385" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1255.3750625628477</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="316_23506623" type="text" x="20946" y="9282.25" r="0" s="4.522143933804014" class="strong">
+      <height>27.1875</height>
+      <width>467.27176638503596</width>
+      <p align="center">
+        <text><![CDATA[VII.3.2) Résultats des tests 2/5]]></text>
+      </p>
+    </object>
+    <object id="318_23506623" type="button" x="23885.85" y="10687.7" r="0" s="2.525132990856385" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>1056.5217391304348</w>
+        <h>1255.3750625628477</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>process</parentTemplate>
+      </meta>
+    </object>
+    <object id="322_23506623" type="image" x="23883.85" y="11331.85" r="0" s="2.553366622190695">
+      <source w="660" h="650">1183858198<url>1183858198.png</url></source>
+      <sourceUrl>connectivity_diagram.png</sourceUrl>
+    <resource><id>1183858198</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/1/c/550d49b992fee47168ed6424fef8ce25dcfc2.png</url></resource></object>
+    <object id="319_23506623" type="text" x="23885.714157161114" y="9353.2484556904" r="0" s="4.522143933804014" class="strong">
+      <height>54.375</height>
+      <width>451.92176638503594</width>
+      <p align="center">
+        <text><![CDATA[VII.3.4) Compte-rendu de la passation]]></text>
+      </p>
+    </object>
+    <object id="321_23506623" type="image" x="23885.15" y="10006.65" r="0" s="3.3071730276381017">
+      <source w="587" h="271">1183857858<url>1183857858.png</url></source>
+      <sourceUrl>connectivity_diagram_2.png</sourceUrl>
+    <resource><id>1183857858</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/4/c/884a87185d190b760777f08eecafd3664bb8b.png</url></resource></object>
+    <object id="323_23506623" type="text" x="11979.55" y="11359.45" r="0" s="1.326638320573073" class="body">
+      <height>1033.125</height>
+      <width>1645.80234375</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Problèmes et diagnostic :]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Problème 1 : Obligation de se connecter pour certaines actions]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[L’utilisateur, pour remplir le deuxième scénario (poster un commentaire), a été redirigé vers la page de connexion alors qu’il venait de cliquer sur le bouton « Envoyer ». Cela l’a plutôt surpris car il n’était indiqué nulle part qu’il fallait s’inscrire pour poster des commentaires. Une fois qu’il s’est connecté avec les identifiants que nous lui avons fourni, la page chargée n’était pas celle des commentaires mais la page d’accueil. Cela l’a plutôt ennuyé puisqu’il devait re-cliquer sur la borne, re-cliquer sur « Commenter », et enfin ré-écrire son commentaire.  ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La gravité de ce problème est importante. Nous nous rendons compte que cela est un problème de manque informationnel et de gestion des erreurs qui peut agacer les utilisateurs, et nous allons essayer d’y remédier en grisant la zone de texte pour écrire le commentaire si l’utilisateur n’est pas connecté. En dessous de la zone, nous pourrions rajouter un label « Veuillez vous connecter pour commenter ». ]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Problème 2 : Icône ajouter borne ]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Pour le troisième scénario (ajouter une borne wifi), l’utilisateur a bien trouvé qu’il fallait glisser et déposer le point rouge pour ajouter une borne wifi, mais il a déposé le point hors de la carte. Cela aurait dû provoquer une erreur, mais il ne s’est rien passé. Aucun message pour prévenir l’utilisateur. Il a cru à un bug du prototype. Nous avons dû lui indiquer de fermer et de rouvrir le menu pour refaire apparaître l’icône et finir le scénario. ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[C’est un problème de gestion des erreurs qui a une gravité assez importante. Il faudrait rajouter un message d’erreur lorsque l’utilisateur dépose le point hors de la carte, et refaire apparaître le point dans le menu, pour éviter qu’il fasse une action en plus (fermer et rouvrir le menu).]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Problème 3 : Cacher les informations d’une borne]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Pour le premier scénario (chercher les informations d’une borne), l’utilisateur a vite compris qu’il fallait cliquer sur l’icône bleue sur la carte pour afficher les informations d’une borne. Cependant, pour cacher la fenêtre des informations, il faut recliquer exactement sur l’icône de la borne, et l’utilisateur a, à plusieurs reprises, cliqué sur la map en essayant de fermer cette fenêtre.  Même lors des autres scénarios, il a cliqué plusieurs fois à côté pour fermer la fenêtre des informations. Il nous a dit qu’il pensait que c’était plus intuitif.]]></text>
+      </p>
+      <p align="justify">
+        <text weight="bold"><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La gravité de ce problème est moyenne. Cela dépend de l’expérience utilisateur de chaque personne. Nous pourrions essayer de faire disparaître la fenêtre d’informations lors d’un click sur la map.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[L’utilisateur a ensuite rempli le questionnaire avec l’échelle de satisfaction sur l’utilisabilité et le questionnaire AttrakDiff.]]></text>
+      </p>
+    </object>
+    <object id="324_23506623" type="image" x="15027.55" y="10430.699999999999" r="0" s="3.7902176252653335">
+      <source w="423" h="550">1183926198<url>1183926198.png</url></source>
+      <sourceUrl>ES1-1.png</sourceUrl>
+    <resource><id>1183926198</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/b/0/27d4c4c6668ea1f2634c623ea4928c2dedc09.png</url></resource></object>
+    <object id="325_23506623" type="image" x="15027.25" y="11824" r="0" s="3.6325927318070272">
+      <source w="434" h="170">1183926733<url>1183926733.png</url></source>
+      <sourceUrl>ES1-2.png</sourceUrl>
+    <resource><id>1183926733</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/e/7/7b41f5f5df4b55fc4dea4ebb34ffce8577b22.png</url></resource></object>
+    <object id="326_23506623" type="image" x="20946.3" y="10392.95" r="0" s="3.524356917232339">
+      <source w="450" h="578">1183931963<url>1183931963.png</url></source>
+      <sourceUrl>ES2-1.png</sourceUrl>
+    <resource><id>1183931963</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/4/2/3b4a36dcdf71b6bca8cd553e91f52d4cdaa00.png</url></resource></object>
+    <object id="327_23506623" type="image" x="20949.7" y="11763.3" r="0" s="3.361829856375974">
+      <source w="458" h="181">1183932283<url>1183932283.png</url></source>
+      <sourceUrl>ES2-2.png</sourceUrl>
+    <resource><id>1183932283</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/0/5/a/1ce88079237e5e9486756e09c3b45d0e03b62.png</url></resource></object>
+    <object id="328_23506623" type="text" x="17958.95" y="11329" r="0" s="1.326638320573073" class="body">
+      <height>1141.875</height>
+      <width>1749.7059609163828</width>
+      <p align="justify">
+        <text weight="bold"><![CDATA[Problèmes et diagnostic :]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Problème 1 : Filtres pas très adéquat]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Lors du premier scénario, l’utilisateur a émis une remarque concernant le système de filtre de la recherche. Il pense que quand on recherche une borne avec une sécurité « moyenne » par exemple, il faut tout de même que les bornes avec une sécurité « bonne » soient affichées,  afin de montrer à l’utilisateur qu’il existe une borne meilleure que ce qu’il cherchait.  Donc il faudrait que la sélection soit une fourchette, par exemple de moyenne à bonne, plutôt qu’une valeur simple.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Lors du deuxième scénario, il aurait souhaité trouvé dans les filtres le Type d’accès, pour distinguer un restaurant d’une gare par exemple.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La gravité de ce problème est modérée. Sa remarque est pertinente mais ceci pourrait ne pas gêner d’autres utilisateurs. Nous la prenons en compte et travaillerons pour retravailler les filtres. Pour le filtre « type d’accès », il était prévu de le mettre ainsi que d’autres, mais puisque ce n’est qu’un prototype, nous avons choisi seulement quelques champs clés pour la recherche, l’utilisateur a compris cette explication.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Problème 2 : Connexion qui interrompt des actions quand on s’y attend pas ]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Lors du deuxième scénario, lors de l’ajout d’un commentaire,  l’utilisateur a été étonné que son commentaire n’ait pas été envoyé et qu’il ait été redirigé vers le formulaire de connexion. Cela l’a même un peu énervé.  Il n’était pas indiqué que la connexion était nécessaire. De plus une fois la connexion établie, il a dû refaire les actions précédentes pour rédiger son commentaire car il n’a pas été redirigé sur la page de l’ajout de commentaire, et ce qu’il avait écrit n’a pas été conservé.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La gravité de ce problème est importante. Vu qu’il n’est pas indiqué qu’il faut se connecter pour réaliser l’action de commenter, l’utilisateur ne peut le deviner. De plus, le fait que le commentaire ne soit pas enregistré pour être envoyé après la connexion est un gros souci. Nous pourrons dans le futur, par exemple, remplacer le formulaire d’ajout de commentaire par un lien « Connectez-vous afin de laisser un commentaire » qui serait remplacé par le formulaire une fois connecté.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify" listType="bullet" indent="1">
+        <text weight="bold"><![CDATA[Problème 3 : Distance ?]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Dans le troisième scénario, lors de l’ajout d’une borne, l’utilisateur s’est rendu compte d’une erreur de notre part dans les champs à remplir : distance. Distance par rapport à quoi ? Que signifie ce champ ? Et comme tous les champs sont requis afin de valider l’ajout d’un formulaire, il a mis la première valeur qui venait.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[La gravité de ce problème est importante. Lorsque nous avons conçu la maquette, on souhaitait pouvoir déterminer sur la carte les bornes d’accès à proximité de nous, mais nous avons oublié de concevoir le point d’origine qui détermine à quelle distance sont situées les bornes. De plus, ce n’est pas une donnée qu’un utilisateur doit remplir lors de l’ajout d’une borne, mais ça sera calculé par le système.]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[]]></text>
+      </p>
+      <p align="justify">
+        <text><![CDATA[Finalement, l’utilisateur a ensuite rempli le questionnaire avec l’échelle de satisfaction sur l’utilisabilité et le questionnaire AttrakDiff.]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="11.1663292472301" fadescale="0.19702087868721296">
+      <object id="background1100688505" type="image" x="0" y="0" r="0" s="18.60768601617856">
+        <source w="5000" h="4034">1100688505<url>1100688505.jpg</url></source>
+        <sourceUrl>keknevvel.jpg</sourceUrl>
+      <resource><id>1100688505</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/5/5/6a891f15ee7bb23a2bd56614739d3fcbb0a0f.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="78_13696309"/>
+    </s>
+    <s>
+      <eagle o="150_23506623"/>
+    </s>
+    <s>
+      <eagle o="177_23506623"/>
+    </s>
+    <s>
+      <eagle o="168_23506623"/>
+    </s>
+    <s>
+      <eagle o="57_13696309"/>
+    </s>
+    <s>
+      <eagle o="70_13696309"/>
+    </s>
+    <s>
+      <eagle o="71_13696309"/>
+    </s>
+    <s>
+      <eagle o="17_23506623"/>
+    </s>
+    <s>
+      <eagle o="24_23506623"/>
+    </s>
+    <s>
+      <eagle o="38_23506623"/>
+    </s>
+    <s>
+      <eagle o="58_13696309"/>
+    </s>
+    <s>
+      <eagle o="217_13696309"/>
+    </s>
+    <s>
+      <eagle o="218_13696309"/>
+    </s>
+    <s>
+      <eagle o="25_23506623"/>
+    </s>
+    <s>
+      <eagle o="30_23506623"/>
+    </s>
+    <s>
+      <eagle o="95_23506623"/>
+    </s>
+    <s>
+      <eagle o="99_23506623"/>
+    </s>
+    <s>
+      <eagle o="103_23506623"/>
+    </s>
+    <s>
+      <eagle o="59_13696309"/>
+    </s>
+    <s>
+      <eagle o="221_13696309"/>
+    </s>
+    <s>
+      <eagle o="222_13696309"/>
+    </s>
+    <s>
+      <eagle o="35_23506623"/>
+    </s>
+    <s>
+      <eagle o="92_23506623"/>
+    </s>
+    <s>
+      <eagle o="96_23506623"/>
+    </s>
+    <s>
+      <eagle o="114_23506623"/>
+    </s>
+    <s>
+      <eagle o="48_23506623"/>
+    </s>
+    <s>
+      <eagle o="40_23506623"/>
+    </s>
+    <s>
+      <eagle o="119_23506623"/>
+    </s>
+    <s>
+      <eagle o="124_23506623"/>
+    </s>
+    <s>
+      <eagle o="60_23506623"/>
+    </s>
+    <s>
+      <eagle o="58_23506623"/>
+    </s>
+    <s>
+      <eagle o="59_23506623"/>
+    </s>
+    <s>
+      <eagle o="142_23506623"/>
+    </s>
+    <s>
+      <eagle o="148_23506623"/>
+    </s>
+    <s>
+      <eagle o="154_23506623"/>
+    </s>
+    <s>
+      <eagle o="157_23506623"/>
+    </s>
+    <s>
+      <eagle o="160_23506623"/>
+    </s>
+    <s>
+      <eagle o="166_23506623"/>
+    </s>
+    <s>
+      <eagle o="175_23506623"/>
+    </s>
+    <s>
+      <eagle o="201_23506623"/>
+    </s>
+    <s>
+      <eagle o="72_23506623"/>
+    </s>
+    <s>
+      <eagle o="70_23506623"/>
+    </s>
+    <s>
+      <eagle o="71_23506623"/>
+    </s>
+    <s>
+      <eagle o="5_23506623"/>
+    </s>
+    <s>
+      <eagle o="7_23506623"/>
+    </s>
+    <s>
+      <eagle o="139_23506623"/>
+    </s>
+    <s>
+      <eagle o="146_23506623"/>
+    </s>
+    <s>
+      <eagle o="176_23506623"/>
+    </s>
+    <s>
+      <eagle o="194_23506623"/>
+    </s>
+    <s>
+      <eagle o="10_23506623"/>
+    </s>
+    <s>
+      <eagle o="246_23506623"/>
+    </s>
+    <s>
+      <eagle o="247_23506623"/>
+    </s>
+    <s>
+      <eagle o="248_23506623"/>
+    </s>
+    <s>
+      <eagle o="249_23506623"/>
+    </s>
+    <s>
+      <eagle o="55_23506623"/>
+    </s>
+    <s>
+      <eagle o="250_23506623"/>
+    </s>
+    <s>
+      <eagle o="251_23506623"/>
+    </s>
+    <s>
+      <eagle o="252_23506623"/>
+    </s>
+    <s>
+      <eagle o="253_23506623"/>
+    </s>
+    <s>
+      <eagle o="73_23506623"/>
+    </s>
+    <s>
+      <eagle o="254_23506623"/>
+    </s>
+    <s>
+      <eagle o="255_23506623"/>
+    </s>
+    <s>
+      <eagle o="258_23506623"/>
+    </s>
+    <s>
+      <eagle o="259_23506623"/>
+    </s>
+    <s>
+      <eagle o="76_23506623"/>
+    </s>
+    <s>
+      <eagle o="260_23506623"/>
+    </s>
+    <s>
+      <eagle o="100_23506623"/>
+    </s>
+    <s>
+      <eagle o="261_23506623"/>
+    </s>
+    <s>
+      <eagle o="262_23506623"/>
+    </s>
+    <s>
+      <eagle o="108_23506623"/>
+    </s>
+    <s>
+      <eagle o="263_23506623"/>
+    </s>
+    <s>
+      <eagle o="264_23506623"/>
+    </s>
+    <s>
+      <eagle o="112_23506623"/>
+    </s>
+    <s>
+      <eagle o="265_23506623"/>
+    </s>
+    <s>
+      <eagle o="266_23506623"/>
+    </s>
+    <s>
+      <eagle o="83_23506623"/>
+    </s>
+    <s>
+      <eagle o="81_23506623"/>
+    </s>
+    <s>
+      <eagle o="82_23506623"/>
+    </s>
+    <s>
+      <eagle o="291_23506623"/>
+    </s>
+    <s>
+      <eagle o="294_23506623"/>
+    </s>
+    <s>
+      <eagle o="295_23506623"/>
+    </s>
+    <s>
+      <eagle o="299_23506623"/>
+    </s>
+    <s>
+      <eagle o="303_23506623"/>
+    </s>
+    <s>
+      <eagle o="305_23506623"/>
+    </s>
+    <s>
+      <eagle o="323_23506623"/>
+    </s>
+    <s>
+      <eagle o="306_23506623"/>
+    </s>
+    <s>
+      <eagle o="324_23506623"/>
+    </s>
+    <s>
+      <eagle o="325_23506623"/>
+    </s>
+    <s>
+      <eagle o="309_23506623"/>
+    </s>
+    <s>
+      <eagle o="311_23506623"/>
+    </s>
+    <s>
+      <eagle o="328_23506623"/>
+    </s>
+    <s>
+      <eagle o="315_23506623"/>
+    </s>
+    <s>
+      <eagle o="326_23506623"/>
+    </s>
+    <s>
+      <eagle o="327_23506623"/>
+    </s>
+    <s>
+      <eagle o="318_23506623"/>
+    </s>
+    <s>
+      <eagle o="321_23506623"/>
+    </s>
+    <s>
+      <eagle o="322_23506623"/>
+    </s>
+    <s>
+      <eagle o="181_23506623"/>
+    </s>
+    <s>
+      <eagle o="78_13696309"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LiberationMonoPR-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+.line1
+{
+	color: #d71717;
+	gradEndColor: #d71717;
+	gradStartColor: #d71717;
+}
+
+.line2
+{
+	color: #424457;
+	gradEndColor: #424457;
+	gradStartColor: #424457;
+}
+
+.line3
+{
+	color: #9abfff;
+	gradEndColor: #9abfff;
+	gradStartColor: #9abfff;
+}
+
+.line4
+{
+	color: #999;
+	gradEndColor: #999;
+	gradStartColor: #999;
+}
+
+.line5
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+.poly1
+{
+	borderColor: #d71717;
+	borderThickness: 0;
+	gradEndColor: #d71717;
+	gradStartColor: #d71717;
+}
+
+.poly2
+{
+	borderColor: #424457;
+	borderThickness: 0;
+	gradEndColor: #424457;
+	gradStartColor: #424457;
+}
+
+.poly3
+{
+	borderColor: #9abfff;
+	borderThickness: 0;
+	gradEndColor: #9abfff;
+	gradStartColor: #9abfff;
+}
+
+.poly4
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #999;
+	gradStartColor: #999;
+}
+
+.poly5
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+Background
+{
+	gradEnd: #000;
+	gradStart: #000;
+}
+
+Grid
+{
+	color: #464646;
+}
+
+ZArrow
+{
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+	lockTintAlpha: 0;
+	lockTintColor: #000;
+	thickness: 7;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+	lockTintAlpha: 1;
+	lockTintColor: #000;
+	rollOverShadowColor: #ddd;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: 1;
+	gradEndColor: #9abfff;
+	gradStartAlpha: 1;
+	gradStartColor: #9abfff;
+	padding: 1.03;
+	thickness: 5;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #9abfff;
+	borderThickness: 15;
+	gradEndAlpha: 0.8;
+	gradEndColor: #000c74;
+	gradStartAlpha: 0.75;
+	gradStartColor: #000c74;
+	padding: 1.03;
+	radius: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #f6f6f6;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #666;
+	background-padding: 7;
+	background-padding-bottom: 5;
+}
+
+ZLabel.head
+{
+	color: #f6f6f6;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #000c74;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLabel.strong
+{
+	color: #f6f6f6;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #666;
+	background-padding: 4;
+	background-padding-bottom: 4;
+}
+
+ZLine
+{
+	color: #fff;
+	lockTintAlpha: 0;
+	lockTintColor: #000;
+	rollOverShadowColor: #ddd;
+}
+
+ZLoadedImage
+{
+	lockTintAlpha: 0.4;
+	lockTintColor: #000;
+	rollOverShadowColor: #ddd;
+}
+
+ZMarker
+{
+	alpha: 0.65;
+	color: #e8eb4b;
+	lockTintAlpha: 0.4;
+	lockTintColor: #000;
+	rollOverShadowColor: #ddd;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZVideo
+{
+	lockTintAlpha: 0.4;
+	lockTintColor: #000;
+	padding: 1.2;
+	rollOverShadowColor: #ddd;
+}
+
+ZYoutube
+{
+	lockTintAlpha: 0.4;
+	lockTintColor: #000;
+	rollOverShadowColor: #ddd;
+}
+
+]]></style>
+  <hash>69830383</hash>
+<sync><oid>gyswc4wvl120</oid><title>connectivity-projet-wifi-rapport</title><hash>69830383</hash></sync><config>Fly6ksuScnjHYL1clJsoWPcXikDhDz4GN0kLhefU3u5Pr2TyiY6T4CJton4Y6DwfSwa3XCSNmRUg53R/jO3PF+YmFcZpxYeRUK0pg07PHB4cnVR/tSNJrIMTGT1iPFmTqec6zgx8N1PBoLjkH08C//uONiF8WfJnp7V7K0kvu0ulibdgQQTMJOLGKzU0EsI8n8UoxKo+JApN75NX1KlXKZGndj4dLUbdVV9N/0AA9poNCSN3jnd/MfmO1Wzt8j5+PJ+qJA9MrvZ5NyT4RzoGbL2V0XaM7wDwq5JY9iS4YwaSyyXN6+HZ/fvl0/OdGC1O5u0U5ErxCOzeNeB3Yr3aeg==</config></zuiprezi>
